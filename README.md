@@ -1,1 +1,1 @@
-Languages
+# Weglot Languages
