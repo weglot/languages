@@ -1,0 +1,28 @@
+name: Package publish
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.release.target_commitish }}
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+          registry-url: https://npm.pkg.github.com/
+          scope: "@weglot"
+      - run: npm install
+      - run: git config user.email "41898282+github-actions[bot]@users.noreply.github.com" && git config user.name "github-actions[bot]"
+      - run: npm version ${{ github.event.release.tag_name }}
+      - run: npm run build
+      - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: git push origin HEAD:master
+        env:
+          github-token: ${{ secrets.GITHUB_TOKEN }}

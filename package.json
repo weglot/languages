@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Languages",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/weglot/languages.git"
   },
-  "homepage": "https://github.com/weglot/languages#readme"
+  "homepage": "https://github.com/weglot/languages#readme",
+  "dependencies": {
+    "flag-icon-css": "^3.5.0"
+  }
 }
