@@ -2,22 +2,26 @@
   {
     "code": "af",
     "english_name": "Afrikaans",
-    "local_name": "Afrikaans"
+    "local_name": "Afrikaans",
+    "flag_name": "za.svg"
   },
   {
     "code": "am",
     "english_name": "Amharic",
-    "local_name": "አማርኛ"
+    "local_name": "አማርኛ",
+    "flag_name": "et.svg"
   },
   {
     "code": "ar",
     "english_name": "Arabic",
-    "local_name": "العربية‏"
+    "local_name": "العربية‏",
+    "flag_name": "sa.svg"
   },
   {
     "code": "az",
     "english_name": "Azerbaijani",
-    "local_name": "Azərbaycan dili"
+    "local_name": "Azərbaycan dili",
+    "flag_name": "az.svg"
   },
   {
     "code": "ba",
@@ -27,32 +31,38 @@
   {
     "code": "be",
     "english_name": "Belarusian",
-    "local_name": "Беларуская"
+    "local_name": "Беларуская",
+    "flag_name": "by.svg"
   },
   {
     "code": "bg",
     "english_name": "Bulgarian",
-    "local_name": "Български"
+    "local_name": "Български",
+    "flag_name": "bg.svg"
   },
   {
     "code": "bn",
     "english_name": "Bengali",
-    "local_name": "বাংলা"
+    "local_name": "বাংলা",
+    "flag_name": "bd.svg"
   },
   {
     "code": "br",
-    "english_name": "Portuguese",
-    "local_name": "Português"
+    "english_name": "Brazilian",
+    "local_name": "Brasileira",
+    "flag_name": "br.svg"
   },
   {
     "code": "bs",
     "english_name": "Bosnian",
-    "local_name": "Bosanski"
+    "local_name": "Bosanski",
+    "flag_name": "ba.svg"
   },
   {
     "code": "ca",
     "english_name": "Catalan",
-    "local_name": "Català"
+    "local_name": "Català",
+    "flag_name": "es-ca.svg"
   },
   {
     "code": "co",
@@ -62,32 +72,38 @@
   {
     "code": "cs",
     "english_name": "Czech",
-    "local_name": "Čeština"
+    "local_name": "Čeština",
+    "flag_name": "cz.svg"
   },
   {
     "code": "cy",
     "english_name": "Welsh",
-    "local_name": "Cymraeg"
+    "local_name": "Cymraeg",
+    "flag_name": "gb-wls.svg"
   },
   {
     "code": "da",
     "english_name": "Danish",
-    "local_name": "Dansk"
+    "local_name": "Dansk",
+    "flag_name": "dk.svg"
   },
   {
     "code": "de",
     "english_name": "German",
-    "local_name": "Deutsch"
+    "local_name": "Deutsch",
+    "flag_name": "de.svg"
   },
   {
     "code": "el",
     "english_name": "Greek",
-    "local_name": "Ελληνικά"
+    "local_name": "Ελληνικά",
+    "flag_name": "gr.svg"
   },
   {
     "code": "en",
     "english_name": "English",
-    "local_name": "English"
+    "local_name": "English",
+    "flag_name": "gb.svg"
   },
   {
     "code": "eo",
@@ -97,12 +113,14 @@
   {
     "code": "es",
     "english_name": "Spanish",
-    "local_name": "Español"
+    "local_name": "Español",
+    "flag_name": "es.svg"
   },
   {
     "code": "et",
     "english_name": "Estonian",
-    "local_name": "Eesti"
+    "local_name": "Eesti",
+    "flag_name": "ee.svg"
   },
   {
     "code": "eu",
@@ -112,27 +130,32 @@
   {
     "code": "fa",
     "english_name": "Persian",
-    "local_name": "فارسی"
+    "local_name": "فارسی",
+    "flag_name": "ir.svg"
   },
   {
     "code": "fi",
     "english_name": "Finnish",
-    "local_name": "Suomi"
+    "local_name": "Suomi",
+    "flag_name": "fi.svg"
   },
   {
     "code": "fj",
     "english_name": "Fijian",
-    "local_name": "Vosa Vakaviti"
+    "local_name": "Vosa Vakaviti",
+    "flag_name": "fj.svg"
   },
   {
     "code": "fl",
     "english_name": "Filipino",
-    "local_name": "Pilipino"
+    "local_name": "Pilipino",
+    "flag_name": "ph.svg"
   },
   {
     "code": "fr",
     "english_name": "French",
-    "local_name": "Français"
+    "local_name": "Français",
+    "flag_name": "fr.svg"
   },
   {
     "code": "fy",
@@ -142,17 +165,20 @@
   {
     "code": "ga",
     "english_name": "Irish",
-    "local_name": "Gaeilge"
+    "local_name": "Gaeilge",
+    "flag_name": "ie.svg"
   },
   {
     "code": "gd",
     "english_name": "Scottish Gaelic",
-    "local_name": "Gàidhlig"
+    "local_name": "Gàidhlig",
+    "flag_name": "gb-sct.svg"
   },
   {
     "code": "gl",
     "english_name": "Galician",
-    "local_name": "Galego"
+    "local_name": "Galego",
+    "flag_name": "es-ga.svg"
   },
   {
     "code": "gu",
@@ -167,42 +193,50 @@
   {
     "code": "he",
     "english_name": "Hebrew",
-    "local_name": "עברית"
+    "local_name": "עברית",
+    "flag_name": "il.svg"
   },
   {
     "code": "hi",
     "english_name": "Hindi",
-    "local_name": "हिंदी"
+    "local_name": "हिंदी",
+    "flag_name": "in.svg"
   },
   {
     "code": "hr",
     "english_name": "Croatian",
-    "local_name": "Hrvatski"
+    "local_name": "Hrvatski",
+    "flag_name": "hr.svg"
   },
   {
     "code": "ht",
     "english_name": "Haitian",
-    "local_name": "Kreyòl ayisyen"
+    "local_name": "Kreyòl ayisyen",
+    "flag_name": "ht.svg"
   },
   {
     "code": "hu",
     "english_name": "Hungarian",
-    "local_name": "Magyar"
+    "local_name": "Magyar",
+    "flag_name": "hu.svg"
   },
   {
     "code": "hw",
     "english_name": "Hawaiian",
-    "local_name": "‘Ōlelo Hawai‘i"
+    "local_name": "‘Ōlelo Hawai‘i",
+    "flag_name": "hs.svg"
   },
   {
     "code": "hy",
     "english_name": "Armenian",
-    "local_name": "հայերեն"
+    "local_name": "հայերեն",
+    "flag_name": "am.svg"
   },
   {
     "code": "id",
     "english_name": "Indonesian",
-    "local_name": "Bahasa Indonesia"
+    "local_name": "Bahasa Indonesia",
+    "flag_name": "id.svg"
   },
   {
     "code": "ig",
@@ -212,17 +246,20 @@
   {
     "code": "is",
     "english_name": "Icelandic",
-    "local_name": "Íslenska"
+    "local_name": "Íslenska",
+    "flag_name": "is.svg"
   },
   {
     "code": "it",
     "english_name": "Italian",
-    "local_name": "Italiano"
+    "local_name": "Italiano",
+    "flag_name": "it.svg"
   },
   {
     "code": "ja",
     "english_name": "Japanese",
-    "local_name": "日本語"
+    "local_name": "日本語",
+    "flag_name": "jp.svg"
   },
   {
     "code": "jv",
@@ -232,17 +269,20 @@
   {
     "code": "ka",
     "english_name": "Georgian",
-    "local_name": "ქართული"
+    "local_name": "ქართული",
+    "flag_name": "ge.svg"
   },
   {
     "code": "kk",
     "english_name": "Kazakh",
-    "local_name": "Қазақша"
+    "local_name": "Қазақша",
+    "flag_name": "kz.svg"
   },
   {
     "code": "km",
     "english_name": "Central Khmer",
-    "local_name": "ភាសាខ្មែរ"
+    "local_name": "ភាសាខ្មែរ",
+    "flag_name": "kh.svg"
   },
   {
     "code": "kn",
@@ -252,7 +292,8 @@
   {
     "code": "ko",
     "english_name": "Korean",
-    "local_name": "한국어"
+    "local_name": "한국어",
+    "flag_name": "kr.svg"
   },
   {
     "code": "ku",
@@ -262,7 +303,8 @@
   {
     "code": "ky",
     "english_name": "Kyrgyz",
-    "local_name": "кыргызча"
+    "local_name": "кыргызча",
+    "flag_name": "kg.svg"
   },
   {
     "code": "la",
@@ -272,7 +314,8 @@
   {
     "code": "lb",
     "english_name": "Luxembourgish",
-    "local_name": "Lëtzebuergesch"
+    "local_name": "Lëtzebuergesch",
+    "flag_name": "lu.svg"
   },
   {
     "code": "lo",
@@ -282,17 +325,20 @@
   {
     "code": "lt",
     "english_name": "Lithuanian",
-    "local_name": "Lietuvių"
+    "local_name": "Lietuvių",
+    "flag_name": "lt.svg"
   },
   {
     "code": "lv",
     "english_name": "Latvian",
-    "local_name": "Latviešu"
+    "local_name": "Latviešu",
+    "flag_name": "lv.svg"
   },
   {
     "code": "mg",
     "english_name": "Malagasy",
-    "local_name": "Malagasy"
+    "local_name": "Malagasy",
+    "flag_name": "mg.svg"
   },
   {
     "code": "mi",
@@ -302,7 +348,8 @@
   {
     "code": "mk",
     "english_name": "Macedonian",
-    "local_name": "Македонски"
+    "local_name": "Македонски",
+    "flag_name": "mk.svg"
   },
   {
     "code": "ml",
@@ -312,7 +359,8 @@
   {
     "code": "mn",
     "english_name": "Mongolian",
-    "local_name": "Монгол"
+    "local_name": "Монгол",
+    "flag_name": "mn.svg"
   },
   {
     "code": "mr",
@@ -322,32 +370,38 @@
   {
     "code": "ms",
     "english_name": "Malay",
-    "local_name": "Bahasa Melayu"
+    "local_name": "Bahasa Melayu",
+    "flag_name": "my.svg"
   },
   {
     "code": "mt",
     "english_name": "Maltese",
-    "local_name": "Malti"
+    "local_name": "Malti",
+    "flag_name": "mt.svg"
   },
   {
     "code": "my",
     "english_name": "Burmese",
-    "local_name": "မျန္မာစာ"
+    "local_name": "မျန္မာစာ",
+    "flag_name": "mm.svg"
   },
   {
     "code": "ne",
     "english_name": "Nepali",
-    "local_name": "नेपाली"
+    "local_name": "नेपाली",
+    "flag_name": "np.svg"
   },
   {
     "code": "nl",
     "english_name": "Dutch",
-    "local_name": "Nederlands"
+    "local_name": "Nederlands",
+    "flag_name": "nl.svg"
   },
   {
     "code": "no",
     "english_name": "Norwegian",
-    "local_name": "Norsk"
+    "local_name": "Norsk",
+    "flag_name": "no.svg"
   },
   {
     "code": "ny",
@@ -362,7 +416,8 @@
   {
     "code": "pl",
     "english_name": "Polish",
-    "local_name": "Polski"
+    "local_name": "Polski",
+    "flag_name": "nl.svg"
   },
   {
     "code": "ps",
@@ -372,17 +427,20 @@
   {
     "code": "pt",
     "english_name": "Portuguese",
-    "local_name": "Português"
+    "local_name": "Português",
+    "flag_name": "pt.svg"
   },
   {
     "code": "ro",
     "english_name": "Romanian",
-    "local_name": "Română"
+    "local_name": "Română",
+    "flag_name": "ro.svg"
   },
   {
     "code": "ru",
     "english_name": "Russian",
-    "local_name": "Русский"
+    "local_name": "Русский",
+    "flag_name": "ru.svg"
   },
   {
     "code": "sd",
@@ -397,17 +455,20 @@
   {
     "code": "sk",
     "english_name": "Slovak",
-    "local_name": "Slovenčina"
+    "local_name": "Slovenčina",
+    "flag_name": "sk.svg"
   },
   {
     "code": "sl",
     "english_name": "Slovenian",
-    "local_name": "Slovenščina"
+    "local_name": "Slovenščina",
+    "flag_name": "si.svg"
   },
   {
     "code": "sm",
     "english_name": "Samoan",
-    "local_name": "gagana fa'a Samoa"
+    "local_name": "gagana fa'a Samoa",
+    "flag_name": "ws.svg"
   },
   {
     "code": "sn",
@@ -417,17 +478,20 @@
   {
     "code": "so",
     "english_name": "Somali",
-    "local_name": "Soomaaliga"
+    "local_name": "Soomaaliga",
+    "flag_name": "so.svg"
   },
   {
     "code": "sq",
     "english_name": "Albanian",
-    "local_name": "Shqip"
+    "local_name": "Shqip",
+    "flag_name": "al.svg"
   },
   {
     "code": "sr",
     "english_name": "Serbian",
-    "local_name": "Српски"
+    "local_name": "Српски",
+    "flag_name": "rs.svg"
   },
   {
     "code": "st",
@@ -437,17 +501,20 @@
   {
     "code": "su",
     "english_name": "Sundanese",
-    "local_name": "Sundanese"
+    "local_name": "Sundanese",
+    "flag_name": "sd.svg"
   },
   {
     "code": "sv",
     "english_name": "Swedish",
-    "local_name": "Svenska"
+    "local_name": "Svenska",
+    "flag_name": "se.svg"
   },
   {
     "code": "sw",
     "english_name": "Swahili",
-    "local_name": "Kiswahili"
+    "local_name": "Kiswahili",
+    "flag_name": "ke.svg"
   },
   {
     "code": "ta",
@@ -462,12 +529,14 @@
   {
     "code": "tg",
     "english_name": "Tajik",
-    "local_name": "Тоҷикӣ"
+    "local_name": "Тоҷикӣ",
+    "flag_name": "tj.svg"
   },
   {
     "code": "th",
     "english_name": "Thai",
-    "local_name": "ภาษาไทย"
+    "local_name": "ภาษาไทย",
+    "flag_name": "th.svg"
   },
   {
     "code": "tl",
@@ -477,12 +546,14 @@
   {
     "code": "to",
     "english_name": "Tongan",
-    "local_name": "faka-Tonga"
+    "local_name": "faka-Tonga",
+    "flag_name": "to.svg"
   },
   {
     "code": "tr",
     "english_name": "Turkish",
-    "local_name": "Türkçe"
+    "local_name": "Türkçe",
+    "flag_name": "tr.svg"
   },
   {
     "code": "tt",
@@ -492,32 +563,38 @@
   {
     "code": "tw",
     "english_name": "Traditional Chinese",
-    "local_name": "中文 (繁體)"
+    "local_name": "中文 (繁體)",
+    "flag_name": "tw.svg"
   },
   {
     "code": "ty",
     "english_name": "Tahitian",
-    "local_name": "te reo Tahiti, te reo Māʼohi"
+    "local_name": "te reo Tahiti, te reo Māʼohi",
+    "flag_name": "pf.svg"
   },
   {
     "code": "uk",
     "english_name": "Ukrainian",
-    "local_name": "Українська"
+    "local_name": "Українська",
+    "flag_name": "ua.svg"
   },
   {
     "code": "ur",
     "english_name": "Urdu",
-    "local_name": "اردو"
+    "local_name": "اردو",
+    "flag_name": "pk.svg"
   },
   {
     "code": "uz",
     "english_name": "Uzbek",
-    "local_name": "O'zbek"
+    "local_name": "O'zbek",
+    "flag_name": "uz.svg"
   },
   {
     "code": "vi",
     "english_name": "Vietnamese",
-    "local_name": "Tiếng Việt"
+    "local_name": "Tiếng Việt",
+    "flag_name": "vn.svg"
   },
   {
     "code": "xh",
@@ -537,7 +614,8 @@
   {
     "code": "zh",
     "english_name": "Simplified Chinese",
-    "local_name": "中文 (简体)"
+    "local_name": "中文 (简体)",
+    "flag_name": "cn.svg"
   },
   {
     "code": "zu",
