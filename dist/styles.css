@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.flag-fr {
+  color: French;
+  background-color: Français;
+  background-image: url("node_modules/flag-icon-css/flags/4x3/gb.svg");
+}
+
+.flag-en {
+  color: English;
+  background-color: English;
+  background-image: url("node_modules/flag-icon-css/flags/4x3/gb.svg");
+}
+
+/*# sourceMappingURL=styles.css.map */

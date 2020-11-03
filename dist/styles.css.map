@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../assets/scss/styles.scss",
+		"../data/test.json"
+	],
+	"names": [],
+	"mappings": ";AAGE,AAAA,QAAQ,CAAsB;EAC5B,KAAK,ECJwB,MAAM;EDKnC,gBAAgB,ECLgC,QAAQ;EDMxD,gBAAgB,EAAE,kDAAuC;CAC1D;;AAJD,AAAA,QAAQ,CAAsB;EAC5B,KAAK,ECJgI,OAAO;EDK5I,gBAAgB,ECLyI,OAAO;EDMhK,gBAAgB,EAAE,kDAAuC;CAC1D"
+}
