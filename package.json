@@ -16,5 +16,8 @@
   "homepage": "https://github.com/weglot/languages#readme",
   "dependencies": {
     "flag-icon-css": "^3.5.0"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0"
   }
 }
