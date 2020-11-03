@@ -1,0 +1,9 @@
+@import "data/test.json";
+
+@each $flag in $flags {
+  .flag-#{map-get($flag, code)} {
+    color: map-get($flag, english_name);
+    background-color: map-get($flag, local_name);
+    background-image: url("#{map-get($flag, flag_path)}.svg");
+  }
+}
