@@ -2,7 +2,7 @@
   "name": "@weglot/languages",
   "version": "1.0.0",
   "description": "Weglot Languages provides a set languages data and classes allowing you to easily use multiples flags as images",
-  "main": "index.js",
+  "main": "styles.scss",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weglot/languages.git"
+    "url": "git@github.com:weglot/languages.git"
   },
   "homepage": "https://github.com/weglot/languages#readme",
   "dependencies": {
