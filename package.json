@@ -1,6 +1,5 @@
 {
   "name": "@weglot/languages",
-  "version": "1.0.0",
   "description": "Weglot Languages provides a set languages data and classes allowing you to easily use multiples flags as images",
   "main": "styles.scss",
   "publishConfig": {
