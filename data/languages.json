@@ -270,8 +270,8 @@
       "code": "hw",
       "english_name": "Hawaiian",
       "local_name": "‘Ōlelo Hawai‘i",
-      "flag_path": "\"./../node_modules/flag-icon-css/flags/4x3/us.svg\"",
-      "square_flag_path": "\"./../node_modules/flag-icon-css/flags/1x1/us.svg\""
+      "flag_path": "\"./../images/flags/4x3/hw.svg\"",
+      "square_flag_path": "\"./../images/flags/1x1/hw.svg\""
     },
     {
       "code": "hy",
