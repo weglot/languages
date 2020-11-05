@@ -1,3 +1,5 @@
+@import "data/languages.json";
+
 .wg-flag {
   width: 22px;
   height: 16px;
@@ -7,6 +9,12 @@
   background-position-y: center;
   background-repeat: no-repeat;
   background-image: linear-gradient(#b0b3b8, #b0b3b8);
+
+  &-square {
+    @extend .wg-flag;
+
+    width: 16px;
+  }
 }
 
 .wg-flag-merge {
@@ -23,11 +31,14 @@
   clip-path: polygon(100% 0%, 0% 100%, 100% 100%);
 }
 
-@import "data/languages.json";
-
 @each $language in $languages {
   .wg-flag-#{map-get($language, code)} {
-    //color: map-get($language, english_name);
-    background-image: url("./../#{map-get($language, flag_path)}.svg");
+    background-image: url("#{map-get($language, flag_path)}");
+  }
+}
+
+@each $language in $languages {
+  .wg-square-flag-#{map-get($language, code)} {
+    background-image: url("#{map-get($language, square_flag_path)}");
   }
 }
