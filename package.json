@@ -6,7 +6,9 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
-    "build": "./node_modules/.bin/node-sass --importer node_modules/node-sass-json-importer/dist/cli.js --recursive ./assets/scss/styles.scss --output ./dist --output-style compressed --source-map true"
+    "prepare": "npm run build && npm run post_build",
+    "build": "./node_modules/.bin/node-sass --importer node_modules/node-sass-json-importer/dist/cli.js --recursive ./assets/scss/styles.scss --output ./dist --output-style compressed --source-map true",
+    "post_build": "cp -a ./node_modules/flag-icon-css/flags/1x1/. ./images/flags/1x1/ && cp -a ./node_modules/flag-icon-css/flags/4x3/. ./images/flags/4x3/"
   },
   "repository": {
     "type": "git",
