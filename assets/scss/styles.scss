@@ -37,9 +37,6 @@ $languages-repository-version: '1.1.0';
   .wg-flag-#{map-get($language, code)} {
     background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($language, flag_path)}");
   }
-}
-
-@each $language in $languages {
   .wg-square-flag-#{map-get($language, code)} {
     background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($language, square_flag_path)}");
   }
