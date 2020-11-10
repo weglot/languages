@@ -8,7 +8,7 @@
   "scripts": {
     "build": "npm run sass-compiler && npm run flags-downloads",
     "sass-compiler": "./node_modules/.bin/node-sass --importer node_modules/node-sass-json-importer/dist/cli.js --recursive ./assets/scss/styles.scss --output ./dist --output-style compressed --source-map true",
-    "flags-downloads": "cp -a ./node_modules/flag-icon-css/flags/. ./images/flags/"
+    "flags-downloads": "cp -a ./node_modules/flag-icon-css/flags/. ./images/flag-icon-css/"
   },
   "repository": {
     "type": "git",
