@@ -12,10 +12,25 @@ $languages-repository-version: '1.3.0';
   background-repeat: no-repeat;
   background-image: linear-gradient(#b0b3b8, #b0b3b8);
 
+  @each $language in $languages {
+    &.wg-flag-#{map-get($language, code)} {
+      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($language, flag_path)}");
+    }
+  }
+
   &-square {
     @extend .wg-flag;
 
     width: 16px;
+
+    @each $language in $languages {
+      &.wg-flag-#{map-get($language, code)} {
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($language, flag_path)}");
+      }
+      &.wg-flag-#{map-get($language, code)} {
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($language, square_flag_path)}");
+      }
+    }
   }
 }
 
@@ -31,13 +46,4 @@ $languages-repository-version: '1.3.0';
 .wg-flag-merge .wg-flag:last-child {
   -webkit-clip-path: polygon(100% 0%, 0% 100%, 100% 100%);
   clip-path: polygon(100% 0%, 0% 100%, 100% 100%);
-}
-
-@each $language in $languages {
-  .wg-flag-#{map-get($language, code)} {
-    background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($language, flag_path)}");
-  }
-  .wg-square-flag-#{map-get($language, code)} {
-    background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($language, square_flag_path)}");
-  }
 }
