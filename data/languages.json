@@ -4,6 +4,7 @@
       "code": "af",
       "english_name": "Afrikaans",
       "local_name": "Afrikaans",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/za.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/za.svg\""
     },
@@ -11,6 +12,7 @@
       "code": "am",
       "english_name": "Amharic",
       "local_name": "አማርኛ",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/et.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/et.svg\""
     },
@@ -18,6 +20,7 @@
       "code": "ar",
       "english_name": "Arabic",
       "local_name": "العربية‏",
+      "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/sa.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/sa.svg\""
     },
@@ -25,6 +28,7 @@
       "code": "az",
       "english_name": "Azerbaijani",
       "local_name": "Azərbaycan dili",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/az.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/az.svg\""
     },
@@ -32,6 +36,7 @@
       "code": "ba",
       "english_name": "Bashkir",
       "local_name": "башҡорт теле",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ru.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ru.svg\""
     },
@@ -39,6 +44,7 @@
       "code": "be",
       "english_name": "Belarusian",
       "local_name": "Беларуская",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/by.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/by.svg\""
     },
@@ -46,6 +52,7 @@
       "code": "bg",
       "english_name": "Bulgarian",
       "local_name": "Български",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/bg.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/bg.svg\""
     },
@@ -53,6 +60,7 @@
       "code": "bn",
       "english_name": "Bengali",
       "local_name": "বাংলা",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/bd.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/bd.svg\""
     },
@@ -60,6 +68,7 @@
       "code": "br",
       "english_name": "Brazilian",
       "local_name": "Brasileira",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/br.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/br.svg\""
     },
@@ -67,6 +76,7 @@
       "code": "bs",
       "english_name": "Bosnian",
       "local_name": "Bosanski",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ba.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ba.svg\""
     },
@@ -74,6 +84,7 @@
       "code": "ca",
       "english_name": "Catalan",
       "local_name": "Català",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/es-ca.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/es-ca.svg\""
     },
@@ -81,6 +92,7 @@
       "code": "co",
       "english_name": "Corsican",
       "local_name": "Corsu",
+      "rtl": "false",
       "flag_path": "\"flags/4x3/co.svg\"",
       "square_flag_path": "\"flags/1x1/co.svg\""
     },
@@ -88,6 +100,7 @@
       "code": "cs",
       "english_name": "Czech",
       "local_name": "Čeština",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/cz.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/cz.svg\""
     },
@@ -95,6 +108,7 @@
       "code": "cy",
       "english_name": "Welsh",
       "local_name": "Cymraeg",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/gb-wls.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/gb-wls.svg\""
     },
@@ -102,6 +116,7 @@
       "code": "da",
       "english_name": "Danish",
       "local_name": "Dansk",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/dk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/dk.svg\""
     },
@@ -109,6 +124,7 @@
       "code": "de",
       "english_name": "German",
       "local_name": "Deutsch",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/de.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/de.svg\""
     },
@@ -116,6 +132,7 @@
       "code": "el",
       "english_name": "Greek",
       "local_name": "Ελληνικά",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/gr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/gr.svg\""
     },
@@ -123,6 +140,7 @@
       "code": "en",
       "english_name": "English",
       "local_name": "English",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/gb.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/gb.svg\""
     },
@@ -130,6 +148,7 @@
       "code": "eo",
       "english_name": "Esperanto",
       "local_name": "Esperanto",
+      "rtl": "false",
       "flag_path": "\"flags/4x3/eo.svg\"",
       "square_flag_path": "\"flags/1x1/eo.svg\""
     },
@@ -137,6 +156,7 @@
       "code": "es",
       "english_name": "Spanish",
       "local_name": "Español",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/es.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/es.svg\""
     },
@@ -144,6 +164,7 @@
       "code": "et",
       "english_name": "Estonian",
       "local_name": "Eesti",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ee.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ee.svg\""
     },
@@ -151,6 +172,7 @@
       "code": "eu",
       "english_name": "Basque",
       "local_name": "Euskara",
+      "rtl": "false",
       "flag_path": "\"flags/4x3/eu.svg\"",
       "square_flag_path": "\"flags/1x1/eu.svg\""
     },
@@ -158,6 +180,7 @@
       "code": "fa",
       "english_name": "Persian",
       "local_name": "فارسی",
+      "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/ir.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ir.svg\""
     },
@@ -165,6 +188,7 @@
       "code": "fi",
       "english_name": "Finnish",
       "local_name": "Suomi",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/fi.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/fi.svg\""
     },
@@ -172,6 +196,7 @@
       "code": "fj",
       "english_name": "Fijian",
       "local_name": "Vosa Vakaviti",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/fj.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/fj.svg\""
     },
@@ -179,6 +204,7 @@
       "code": "fl",
       "english_name": "Filipino",
       "local_name": "Pilipino",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ph.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ph.svg\""
     },
@@ -186,6 +212,7 @@
       "code": "fr",
       "english_name": "French",
       "local_name": "Français",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/fr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/fr.svg\""
     },
@@ -193,6 +220,7 @@
       "code": "fy",
       "english_name": "Western Frisian",
       "local_name": "frysk",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/nl.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/nl.svg\""
     },
@@ -200,6 +228,7 @@
       "code": "ga",
       "english_name": "Irish",
       "local_name": "Gaeilge",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ie.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ie.svg\""
     },
@@ -207,6 +236,7 @@
       "code": "gd",
       "english_name": "Scottish Gaelic",
       "local_name": "Gàidhlig",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/gb-sct.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/gb-sct.svg\""
     },
@@ -214,6 +244,7 @@
       "code": "gl",
       "english_name": "Galician",
       "local_name": "Galego",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/es-ga.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/es-ga.svg\""
     },
@@ -221,6 +252,7 @@
       "code": "gu",
       "english_name": "Gujarati",
       "local_name": "ગુજરાતી",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
     },
@@ -228,6 +260,7 @@
       "code": "ha",
       "english_name": "Hausa",
       "local_name": "هَوُسَ",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ne.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ne.svg\""
     },
@@ -235,6 +268,7 @@
       "code": "he",
       "english_name": "Hebrew",
       "local_name": "עברית",
+      "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/il.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/il.svg\""
     },
@@ -242,6 +276,7 @@
       "code": "hi",
       "english_name": "Hindi",
       "local_name": "हिंदी",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
     },
@@ -249,6 +284,7 @@
       "code": "hr",
       "english_name": "Croatian",
       "local_name": "Hrvatski",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/hr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/hr.svg\""
     },
@@ -256,6 +292,7 @@
       "code": "ht",
       "english_name": "Haitian",
       "local_name": "Kreyòl ayisyen",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ht.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ht.svg\""
     },
@@ -263,6 +300,7 @@
       "code": "hu",
       "english_name": "Hungarian",
       "local_name": "Magyar",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/hu.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/hu.svg\""
     },
@@ -270,6 +308,7 @@
       "code": "hw",
       "english_name": "Hawaiian",
       "local_name": "‘Ōlelo Hawai‘i",
+      "rtl": "false",
       "flag_path": "\"flags/4x3/hw.svg\"",
       "square_flag_path": "\"flags/1x1/hw.svg\""
     },
@@ -277,6 +316,7 @@
       "code": "hy",
       "english_name": "Armenian",
       "local_name": "հայերեն",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/am.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/am.svg\""
     },
@@ -284,6 +324,7 @@
       "code": "id",
       "english_name": "Indonesian",
       "local_name": "Bahasa Indonesia",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/id.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/id.svg\""
     },
@@ -291,6 +332,7 @@
       "code": "ig",
       "english_name": "Igbo",
       "local_name": "Igbo",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ne.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ne.svg\""
     },
@@ -298,6 +340,7 @@
       "code": "is",
       "english_name": "Icelandic",
       "local_name": "Íslenska",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/is.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/is.svg\""
     },
@@ -305,6 +348,7 @@
       "code": "it",
       "english_name": "Italian",
       "local_name": "Italiano",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/it.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/it.svg\""
     },
@@ -312,6 +356,7 @@
       "code": "ja",
       "english_name": "Japanese",
       "local_name": "日本語",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/jp.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/jp.svg\""
     },
@@ -319,6 +364,7 @@
       "code": "jv",
       "english_name": "Javanese",
       "local_name": "Wong Jawa",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/id.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/id.svg\""
     },
@@ -326,6 +372,7 @@
       "code": "ka",
       "english_name": "Georgian",
       "local_name": "ქართული",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ge.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ge.svg\""
     },
@@ -333,6 +380,7 @@
       "code": "kk",
       "english_name": "Kazakh",
       "local_name": "Қазақша",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/kz.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/kz.svg\""
     },
@@ -340,6 +388,7 @@
       "code": "km",
       "english_name": "Central Khmer",
       "local_name": "ភាសាខ្មែរ",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/kh.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/kh.svg\""
     },
@@ -347,6 +396,7 @@
       "code": "kn",
       "english_name": "Kannada",
       "local_name": "ಕನ್ನಡ",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
     },
@@ -354,6 +404,7 @@
       "code": "ko",
       "english_name": "Korean",
       "local_name": "한국어",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/kr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/kr.svg\""
     },
@@ -361,6 +412,7 @@
       "code": "ku",
       "english_name": "Kurdish",
       "local_name": "كوردی",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/iq.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/iq.svg\""
     },
@@ -368,6 +420,7 @@
       "code": "ky",
       "english_name": "Kyrgyz",
       "local_name": "кыргызча",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/kg.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/kg.svg\""
     },
@@ -375,6 +428,7 @@
       "code": "la",
       "english_name": "Latin",
       "local_name": "Latine",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/it.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/it.svg\""
     },
@@ -382,6 +436,7 @@
       "code": "lb",
       "english_name": "Luxembourgish",
       "local_name": "Lëtzebuergesch",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/lu.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/lu.svg\""
     },
@@ -389,6 +444,7 @@
       "code": "lo",
       "english_name": "Lao",
       "local_name": "ພາສາລາວ",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/la.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/la.svg\""
     },
@@ -396,6 +452,7 @@
       "code": "lt",
       "english_name": "Lithuanian",
       "local_name": "Lietuvių",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/lt.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/lt.svg\""
     },
@@ -403,6 +460,7 @@
       "code": "lv",
       "english_name": "Latvian",
       "local_name": "Latviešu",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/lv.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/lv.svg\""
     },
@@ -410,6 +468,7 @@
       "code": "mg",
       "english_name": "Malagasy",
       "local_name": "Malagasy",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mg.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mg.svg\""
     },
@@ -417,6 +476,7 @@
       "code": "mi",
       "english_name": "Māori",
       "local_name": "te reo Māori",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/nz.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/nz.svg\""
     },
@@ -424,6 +484,7 @@
       "code": "mk",
       "english_name": "Macedonian",
       "local_name": "Македонски",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mk.svg\""
     },
@@ -431,6 +492,7 @@
       "code": "ml",
       "english_name": "Malayalam",
       "local_name": "മലയാളം",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
     },
@@ -438,6 +500,7 @@
       "code": "mn",
       "english_name": "Mongolian",
       "local_name": "Монгол",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mn.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mn.svg\""
     },
@@ -445,6 +508,7 @@
       "code": "mr",
       "english_name": "Marathi",
       "local_name": "मराठी",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
     },
@@ -452,6 +516,7 @@
       "code": "ms",
       "english_name": "Malay",
       "local_name": "Bahasa Melayu",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/my.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/my.svg\""
     },
@@ -459,6 +524,7 @@
       "code": "mt",
       "english_name": "Maltese",
       "local_name": "Malti",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mt.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mt.svg\""
     },
@@ -466,6 +532,7 @@
       "code": "my",
       "english_name": "Burmese",
       "local_name": "မျန္မာစာ",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mm.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mm.svg\""
     },
@@ -473,6 +540,7 @@
       "code": "ne",
       "english_name": "Nepali",
       "local_name": "नेपाली",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/np.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/np.svg\""
     },
@@ -480,6 +548,7 @@
       "code": "nl",
       "english_name": "Dutch",
       "local_name": "Nederlands",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/nl.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/nl.svg\""
     },
@@ -487,6 +556,7 @@
       "code": "no",
       "english_name": "Norwegian",
       "local_name": "Norsk",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/no.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/no.svg\""
     },
@@ -494,6 +564,7 @@
       "code": "ny",
       "english_name": "Chichewa",
       "local_name": "chiCheŵa",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mw.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mw.svg\""
     },
@@ -501,6 +572,7 @@
       "code": "pa",
       "english_name": "Punjabi",
       "local_name": "ਪੰਜਾਬੀ",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
     },
@@ -508,6 +580,7 @@
       "code": "pl",
       "english_name": "Polish",
       "local_name": "Polski",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/nl.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/nl.svg\""
     },
@@ -515,6 +588,7 @@
       "code": "ps",
       "english_name": "Pashto",
       "local_name": "پښت",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/af.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/af.svg\""
     },
@@ -522,6 +596,7 @@
       "code": "pt",
       "english_name": "Portuguese",
       "local_name": "Português",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/pt.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pt.svg\""
     },
@@ -529,6 +604,7 @@
       "code": "ro",
       "english_name": "Romanian",
       "local_name": "Română",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ro.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ro.svg\""
     },
@@ -536,6 +612,7 @@
       "code": "ru",
       "english_name": "Russian",
       "local_name": "Русский",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ru.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ru.svg\""
     },
@@ -543,6 +620,7 @@
       "code": "sd",
       "english_name": "Sindhi",
       "local_name": "\"سنڌي، سندھی, सिन्धी\"",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/pk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pk.svg\""
     },
@@ -550,6 +628,7 @@
       "code": "si",
       "english_name": "Sinhalese",
       "local_name": "සිංහල",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/lk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/lk.svg\""
     },
@@ -557,6 +636,7 @@
       "code": "sk",
       "english_name": "Slovak",
       "local_name": "Slovenčina",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/sk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/sk.svg\""
     },
@@ -564,6 +644,7 @@
       "code": "sl",
       "english_name": "Slovenian",
       "local_name": "Slovenščina",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/si.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/si.svg\""
     },
@@ -571,6 +652,7 @@
       "code": "sm",
       "english_name": "Samoan",
       "local_name": "\"gagana fa'a Samoa\"",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ws.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ws.svg\""
     },
@@ -578,6 +660,7 @@
       "code": "sn",
       "english_name": "Shona",
       "local_name": "chiShona",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/zw.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/zw.svg\""
     },
@@ -585,6 +668,7 @@
       "code": "so",
       "english_name": "Somali",
       "local_name": "Soomaaliga",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/so.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/so.svg\""
     },
@@ -592,6 +676,7 @@
       "code": "sq",
       "english_name": "Albanian",
       "local_name": "Shqip",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/al.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/al.svg\""
     },
@@ -599,6 +684,7 @@
       "code": "sr",
       "english_name": "Serbian",
       "local_name": "Српски",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/rs.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/rs.svg\""
     },
@@ -606,6 +692,7 @@
       "code": "st",
       "english_name": "Southern Sotho",
       "local_name": "seSotho",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ng.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ng.svg\""
     },
@@ -613,6 +700,7 @@
       "code": "su",
       "english_name": "Sundanese",
       "local_name": "Sundanese",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/sd.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/sd.svg\""
     },
@@ -620,6 +708,7 @@
       "code": "sv",
       "english_name": "Swedish",
       "local_name": "Svenska",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/se.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/se.svg\""
     },
@@ -627,6 +716,7 @@
       "code": "sw",
       "english_name": "Swahili",
       "local_name": "Kiswahili",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ke.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ke.svg\""
     },
@@ -634,6 +724,7 @@
       "code": "ta",
       "english_name": "Tamil",
       "local_name": "தமிழ்",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
     },
@@ -641,6 +732,7 @@
       "code": "te",
       "english_name": "Telugu",
       "local_name": "తెలుగు",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
     },
@@ -648,6 +740,7 @@
       "code": "tg",
       "english_name": "Tajik",
       "local_name": "Тоҷикӣ",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tj.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tj.svg\""
     },
@@ -655,6 +748,7 @@
       "code": "th",
       "english_name": "Thai",
       "local_name": "ภาษาไทย",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/th.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/th.svg\""
     },
@@ -662,6 +756,7 @@
       "code": "tl",
       "english_name": "Tagalog",
       "local_name": "Tagalog",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
     },
@@ -669,6 +764,7 @@
       "code": "to",
       "english_name": "Tongan",
       "local_name": "faka-Tonga",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/to.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/to.svg\""
     },
@@ -676,6 +772,7 @@
       "code": "tr",
       "english_name": "Turkish",
       "local_name": "Türkçe",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tr.svg\""
     },
@@ -683,6 +780,7 @@
       "code": "tt",
       "english_name": "Tatar",
       "local_name": "Tatar",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tr.svg\""
     },
@@ -690,6 +788,7 @@
       "code": "tw",
       "english_name": "Traditional Chinese",
       "local_name": "中文 (繁體)",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tw.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tw.svg\""
     },
@@ -697,6 +796,7 @@
       "code": "ty",
       "english_name": "Tahitian",
       "local_name": "\"te reo Tahiti, te reo Māʼohi\"",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/pf.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pf.svg\""
     },
@@ -704,6 +804,7 @@
       "code": "uk",
       "english_name": "Ukrainian",
       "local_name": "Українська",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ua.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ua.svg\""
     },
@@ -711,6 +812,7 @@
       "code": "ur",
       "english_name": "Urdu",
       "local_name": "اردو",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/pk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pk.svg\""
     },
@@ -718,6 +820,7 @@
       "code": "uz",
       "english_name": "Uzbek",
       "local_name": "\"O'zbek\"",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/uz.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/uz.svg\""
     },
@@ -725,6 +828,7 @@
       "code": "vi",
       "english_name": "Vietnamese",
       "local_name": "Tiếng Việt",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/vn.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/vn.svg\""
     },
@@ -732,6 +836,7 @@
       "code": "xh",
       "english_name": "Xhosa",
       "local_name": "isiXhosa",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/za.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/za.svg\""
     },
@@ -739,6 +844,7 @@
       "code": "yi",
       "english_name": "Yiddish",
       "local_name": "ייִדיש",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/il.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/il.svg\""
     },
@@ -746,6 +852,7 @@
       "code": "yo",
       "english_name": "Yoruba",
       "local_name": "Yorùbá",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ng.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ng.svg\""
     },
@@ -753,6 +860,7 @@
       "code": "zh",
       "english_name": "Simplified Chinese",
       "local_name": "中文 (简体)",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/cn.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/cn.svg\""
     },
@@ -760,6 +868,7 @@
       "code": "zu",
       "english_name": "Zulu",
       "local_name": "isiZulu",
+      "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/za.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/za.svg\""
     }
