@@ -11,14 +11,14 @@ fs.appendFileSync(
 );
 
 json.languages.forEach((language, i, array) => {
-    fs.appendFileSync(filePath,`        "${language.code}" => [\n`);
-    fs.appendFileSync(filePath,`            "code" => "${language.code}",\n`);
-    fs.appendFileSync(filePath,`            "english" => "${language.english_name}",\n`);
-    fs.appendFileSync(filePath,`            "local_name" => "${language.local_name.replace(/[""]/g, '')}",\n`);
-    fs.appendFileSync(filePath,`            "rtl" => "${language.rtl}",\n`);
-    fs.appendFileSync(filePath,`            "flag_path" => "${language.flag_path.replace(/[""]/g, '')}",\n`);
-    fs.appendFileSync(filePath,`            "square_flag_path" => "${language.square_flag_path.replace(/[""]/g, '')}"\n`);
-    fs.appendFileSync(filePath,`        ]${i != array.length-1 ? "," : ''}\n`);
+    fs.appendFileSync(filePath,`        '${language.code}' => [\n`);
+    fs.appendFileSync(filePath,`            'code' => '${language.code}',\n`);
+    fs.appendFileSync(filePath,`            'english' => "${language.english_name}",\n`);
+    fs.appendFileSync(filePath,`            'local' => "${language.local_name.replace(/[""]/g, '')}",\n`);
+    fs.appendFileSync(filePath,`            'rtl' => ${language.rtl},\n`);
+    fs.appendFileSync(filePath,`            'flag_path' => '${language.flag_path.replace(/[""]/g, '')}',\n`);
+    fs.appendFileSync(filePath,`            'square_flag_path' => '${language.square_flag_path.replace(/[""]/g, '')}',\n`);
+    fs.appendFileSync(filePath,`        ]${i !== array.length-1 ? "," : ''}\n`);
 });
 
 fs.appendFileSync(filePath, "    ];\n}");
