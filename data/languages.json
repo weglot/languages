@@ -871,6 +871,14 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/za.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/za.svg\""
+    },
+    {
+      "code": "hm",
+      "english_name": "Hmong",
+      "local_name": "Hmoob",
+      "rtl": "false",
+      "flag_path": "\"flags/4x3/hm.svg\"",
+      "square_flag_path": "\"flags/1x1/hm.svg\""
     }
   ]
 }

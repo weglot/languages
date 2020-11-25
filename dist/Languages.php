@@ -11,7 +11,7 @@ class Languages
             'local' => "Afrikaans",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/za.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/za.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/za.svg',
         ],
         'am' => [
             'code' => 'am',
@@ -19,7 +19,7 @@ class Languages
             'local' => "አማርኛ",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/et.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/et.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/et.svg',
         ],
         'ar' => [
             'code' => 'ar',
@@ -27,7 +27,7 @@ class Languages
             'local' => "العربية‏",
             'rtl' => true,
             'flag_path' => 'flag-icon-css/4x3/sa.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/sa.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/sa.svg',
         ],
         'az' => [
             'code' => 'az',
@@ -35,7 +35,7 @@ class Languages
             'local' => "Azərbaycan dili",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/az.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/az.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/az.svg',
         ],
         'ba' => [
             'code' => 'ba',
@@ -43,7 +43,7 @@ class Languages
             'local' => "башҡорт теле",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ru.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ru.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ru.svg',
         ],
         'be' => [
             'code' => 'be',
@@ -51,7 +51,7 @@ class Languages
             'local' => "Беларуская",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/by.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/by.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/by.svg',
         ],
         'bg' => [
             'code' => 'bg',
@@ -59,7 +59,7 @@ class Languages
             'local' => "Български",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/bg.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/bg.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/bg.svg',
         ],
         'bn' => [
             'code' => 'bn',
@@ -67,7 +67,7 @@ class Languages
             'local' => "বাংলা",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/bd.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/bd.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/bd.svg',
         ],
         'br' => [
             'code' => 'br',
@@ -75,7 +75,7 @@ class Languages
             'local' => "Brasileira",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/br.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/br.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/br.svg',
         ],
         'bs' => [
             'code' => 'bs',
@@ -83,7 +83,7 @@ class Languages
             'local' => "Bosanski",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ba.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ba.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ba.svg',
         ],
         'ca' => [
             'code' => 'ca',
@@ -91,7 +91,7 @@ class Languages
             'local' => "Català",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/es-ca.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/es-ca.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/es-ca.svg',
         ],
         'co' => [
             'code' => 'co',
@@ -99,7 +99,7 @@ class Languages
             'local' => "Corsu",
             'rtl' => false,
             'flag_path' => 'flags/4x3/co.svg',
-            'square_flag_path' => 'flags/1x1/co.svg'
+            'square_flag_path' => 'flags/1x1/co.svg',
         ],
         'cs' => [
             'code' => 'cs',
@@ -107,7 +107,7 @@ class Languages
             'local' => "Čeština",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/cz.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/cz.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/cz.svg',
         ],
         'cy' => [
             'code' => 'cy',
@@ -115,7 +115,7 @@ class Languages
             'local' => "Cymraeg",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/gb-wls.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/gb-wls.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/gb-wls.svg',
         ],
         'da' => [
             'code' => 'da',
@@ -123,7 +123,7 @@ class Languages
             'local' => "Dansk",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/dk.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/dk.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/dk.svg',
         ],
         'de' => [
             'code' => 'de',
@@ -131,7 +131,7 @@ class Languages
             'local' => "Deutsch",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/de.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/de.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/de.svg',
         ],
         'el' => [
             'code' => 'el',
@@ -139,7 +139,7 @@ class Languages
             'local' => "Ελληνικά",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/gr.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/gr.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/gr.svg',
         ],
         'en' => [
             'code' => 'en',
@@ -147,7 +147,7 @@ class Languages
             'local' => "English",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/gb.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/gb.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/gb.svg',
         ],
         'eo' => [
             'code' => 'eo',
@@ -155,7 +155,7 @@ class Languages
             'local' => "Esperanto",
             'rtl' => false,
             'flag_path' => 'flags/4x3/eo.svg',
-            'square_flag_path' => 'flags/1x1/eo.svg'
+            'square_flag_path' => 'flags/1x1/eo.svg',
         ],
         'es' => [
             'code' => 'es',
@@ -163,7 +163,7 @@ class Languages
             'local' => "Español",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/es.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/es.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/es.svg',
         ],
         'et' => [
             'code' => 'et',
@@ -171,7 +171,7 @@ class Languages
             'local' => "Eesti",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ee.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ee.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ee.svg',
         ],
         'eu' => [
             'code' => 'eu',
@@ -179,7 +179,7 @@ class Languages
             'local' => "Euskara",
             'rtl' => false,
             'flag_path' => 'flags/4x3/eu.svg',
-            'square_flag_path' => 'flags/1x1/eu.svg'
+            'square_flag_path' => 'flags/1x1/eu.svg',
         ],
         'fa' => [
             'code' => 'fa',
@@ -187,7 +187,7 @@ class Languages
             'local' => "فارسی",
             'rtl' => true,
             'flag_path' => 'flag-icon-css/4x3/ir.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ir.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ir.svg',
         ],
         'fi' => [
             'code' => 'fi',
@@ -195,7 +195,7 @@ class Languages
             'local' => "Suomi",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/fi.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/fi.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/fi.svg',
         ],
         'fj' => [
             'code' => 'fj',
@@ -203,7 +203,7 @@ class Languages
             'local' => "Vosa Vakaviti",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/fj.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/fj.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/fj.svg',
         ],
         'fl' => [
             'code' => 'fl',
@@ -211,7 +211,7 @@ class Languages
             'local' => "Pilipino",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ph.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ph.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ph.svg',
         ],
         'fr' => [
             'code' => 'fr',
@@ -219,7 +219,7 @@ class Languages
             'local' => "Français",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/fr.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/fr.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/fr.svg',
         ],
         'fy' => [
             'code' => 'fy',
@@ -227,7 +227,7 @@ class Languages
             'local' => "frysk",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/nl.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/nl.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/nl.svg',
         ],
         'ga' => [
             'code' => 'ga',
@@ -235,7 +235,7 @@ class Languages
             'local' => "Gaeilge",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ie.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ie.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ie.svg',
         ],
         'gd' => [
             'code' => 'gd',
@@ -243,7 +243,7 @@ class Languages
             'local' => "Gàidhlig",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/gb-sct.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/gb-sct.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/gb-sct.svg',
         ],
         'gl' => [
             'code' => 'gl',
@@ -251,7 +251,7 @@ class Languages
             'local' => "Galego",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/es-ga.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/es-ga.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/es-ga.svg',
         ],
         'gu' => [
             'code' => 'gu',
@@ -259,7 +259,7 @@ class Languages
             'local' => "ગુજરાતી",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/in.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/in.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
         ],
         'ha' => [
             'code' => 'ha',
@@ -267,7 +267,7 @@ class Languages
             'local' => "هَوُسَ",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ne.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ne.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ne.svg',
         ],
         'he' => [
             'code' => 'he',
@@ -275,7 +275,7 @@ class Languages
             'local' => "עברית",
             'rtl' => true,
             'flag_path' => 'flag-icon-css/4x3/il.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/il.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/il.svg',
         ],
         'hi' => [
             'code' => 'hi',
@@ -283,7 +283,7 @@ class Languages
             'local' => "हिंदी",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/in.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/in.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
         ],
         'hr' => [
             'code' => 'hr',
@@ -291,7 +291,7 @@ class Languages
             'local' => "Hrvatski",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/hr.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/hr.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/hr.svg',
         ],
         'ht' => [
             'code' => 'ht',
@@ -299,7 +299,7 @@ class Languages
             'local' => "Kreyòl ayisyen",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ht.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ht.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ht.svg',
         ],
         'hu' => [
             'code' => 'hu',
@@ -307,7 +307,7 @@ class Languages
             'local' => "Magyar",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/hu.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/hu.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/hu.svg',
         ],
         'hw' => [
             'code' => 'hw',
@@ -315,7 +315,7 @@ class Languages
             'local' => "‘Ōlelo Hawai‘i",
             'rtl' => false,
             'flag_path' => 'flags/4x3/hw.svg',
-            'square_flag_path' => 'flags/1x1/hw.svg'
+            'square_flag_path' => 'flags/1x1/hw.svg',
         ],
         'hy' => [
             'code' => 'hy',
@@ -323,7 +323,7 @@ class Languages
             'local' => "հայերեն",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/am.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/am.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/am.svg',
         ],
         'id' => [
             'code' => 'id',
@@ -331,7 +331,7 @@ class Languages
             'local' => "Bahasa Indonesia",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/id.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/id.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/id.svg',
         ],
         'ig' => [
             'code' => 'ig',
@@ -339,7 +339,7 @@ class Languages
             'local' => "Igbo",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ne.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ne.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ne.svg',
         ],
         'is' => [
             'code' => 'is',
@@ -347,7 +347,7 @@ class Languages
             'local' => "Íslenska",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/is.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/is.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/is.svg',
         ],
         'it' => [
             'code' => 'it',
@@ -355,7 +355,7 @@ class Languages
             'local' => "Italiano",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/it.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/it.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/it.svg',
         ],
         'ja' => [
             'code' => 'ja',
@@ -363,7 +363,7 @@ class Languages
             'local' => "日本語",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/jp.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/jp.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/jp.svg',
         ],
         'jv' => [
             'code' => 'jv',
@@ -371,7 +371,7 @@ class Languages
             'local' => "Wong Jawa",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/id.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/id.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/id.svg',
         ],
         'ka' => [
             'code' => 'ka',
@@ -379,7 +379,7 @@ class Languages
             'local' => "ქართული",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ge.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ge.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ge.svg',
         ],
         'kk' => [
             'code' => 'kk',
@@ -387,7 +387,7 @@ class Languages
             'local' => "Қазақша",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/kz.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/kz.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/kz.svg',
         ],
         'km' => [
             'code' => 'km',
@@ -395,7 +395,7 @@ class Languages
             'local' => "ភាសាខ្មែរ",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/kh.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/kh.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/kh.svg',
         ],
         'kn' => [
             'code' => 'kn',
@@ -403,7 +403,7 @@ class Languages
             'local' => "ಕನ್ನಡ",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/in.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/in.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
         ],
         'ko' => [
             'code' => 'ko',
@@ -411,7 +411,7 @@ class Languages
             'local' => "한국어",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/kr.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/kr.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/kr.svg',
         ],
         'ku' => [
             'code' => 'ku',
@@ -419,7 +419,7 @@ class Languages
             'local' => "كوردی",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/iq.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/iq.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/iq.svg',
         ],
         'ky' => [
             'code' => 'ky',
@@ -427,7 +427,7 @@ class Languages
             'local' => "кыргызча",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/kg.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/kg.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/kg.svg',
         ],
         'la' => [
             'code' => 'la',
@@ -435,7 +435,7 @@ class Languages
             'local' => "Latine",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/it.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/it.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/it.svg',
         ],
         'lb' => [
             'code' => 'lb',
@@ -443,7 +443,7 @@ class Languages
             'local' => "Lëtzebuergesch",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/lu.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/lu.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/lu.svg',
         ],
         'lo' => [
             'code' => 'lo',
@@ -451,7 +451,7 @@ class Languages
             'local' => "ພາສາລາວ",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/la.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/la.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/la.svg',
         ],
         'lt' => [
             'code' => 'lt',
@@ -459,7 +459,7 @@ class Languages
             'local' => "Lietuvių",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/lt.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/lt.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/lt.svg',
         ],
         'lv' => [
             'code' => 'lv',
@@ -467,7 +467,7 @@ class Languages
             'local' => "Latviešu",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/lv.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/lv.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/lv.svg',
         ],
         'mg' => [
             'code' => 'mg',
@@ -475,7 +475,7 @@ class Languages
             'local' => "Malagasy",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/mg.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/mg.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/mg.svg',
         ],
         'mi' => [
             'code' => 'mi',
@@ -483,7 +483,7 @@ class Languages
             'local' => "te reo Māori",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/nz.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/nz.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/nz.svg',
         ],
         'mk' => [
             'code' => 'mk',
@@ -491,7 +491,7 @@ class Languages
             'local' => "Македонски",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/mk.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/mk.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/mk.svg',
         ],
         'ml' => [
             'code' => 'ml',
@@ -499,7 +499,7 @@ class Languages
             'local' => "മലയാളം",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/in.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/in.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
         ],
         'mn' => [
             'code' => 'mn',
@@ -507,7 +507,7 @@ class Languages
             'local' => "Монгол",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/mn.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/mn.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/mn.svg',
         ],
         'mr' => [
             'code' => 'mr',
@@ -515,7 +515,7 @@ class Languages
             'local' => "मराठी",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/in.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/in.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
         ],
         'ms' => [
             'code' => 'ms',
@@ -523,7 +523,7 @@ class Languages
             'local' => "Bahasa Melayu",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/my.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/my.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/my.svg',
         ],
         'mt' => [
             'code' => 'mt',
@@ -531,7 +531,7 @@ class Languages
             'local' => "Malti",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/mt.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/mt.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/mt.svg',
         ],
         'my' => [
             'code' => 'my',
@@ -539,7 +539,7 @@ class Languages
             'local' => "မျန္မာစာ",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/mm.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/mm.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/mm.svg',
         ],
         'ne' => [
             'code' => 'ne',
@@ -547,7 +547,7 @@ class Languages
             'local' => "नेपाली",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/np.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/np.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/np.svg',
         ],
         'nl' => [
             'code' => 'nl',
@@ -555,7 +555,7 @@ class Languages
             'local' => "Nederlands",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/nl.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/nl.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/nl.svg',
         ],
         'no' => [
             'code' => 'no',
@@ -563,7 +563,7 @@ class Languages
             'local' => "Norsk",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/no.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/no.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/no.svg',
         ],
         'ny' => [
             'code' => 'ny',
@@ -571,7 +571,7 @@ class Languages
             'local' => "chiCheŵa",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/mw.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/mw.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/mw.svg',
         ],
         'pa' => [
             'code' => 'pa',
@@ -579,7 +579,7 @@ class Languages
             'local' => "ਪੰਜਾਬੀ",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/in.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/in.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
         ],
         'pl' => [
             'code' => 'pl',
@@ -587,7 +587,7 @@ class Languages
             'local' => "Polski",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/nl.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/nl.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/nl.svg',
         ],
         'ps' => [
             'code' => 'ps',
@@ -595,7 +595,7 @@ class Languages
             'local' => "پښت",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/af.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/af.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/af.svg',
         ],
         'pt' => [
             'code' => 'pt',
@@ -603,7 +603,7 @@ class Languages
             'local' => "Português",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/pt.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/pt.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/pt.svg',
         ],
         'ro' => [
             'code' => 'ro',
@@ -611,7 +611,7 @@ class Languages
             'local' => "Română",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ro.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ro.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ro.svg',
         ],
         'ru' => [
             'code' => 'ru',
@@ -619,7 +619,7 @@ class Languages
             'local' => "Русский",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ru.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ru.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ru.svg',
         ],
         'sd' => [
             'code' => 'sd',
@@ -627,7 +627,7 @@ class Languages
             'local' => "سنڌي، سندھی, सिन्धी",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/pk.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/pk.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/pk.svg',
         ],
         'si' => [
             'code' => 'si',
@@ -635,7 +635,7 @@ class Languages
             'local' => "සිංහල",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/lk.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/lk.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/lk.svg',
         ],
         'sk' => [
             'code' => 'sk',
@@ -643,7 +643,7 @@ class Languages
             'local' => "Slovenčina",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/sk.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/sk.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/sk.svg',
         ],
         'sl' => [
             'code' => 'sl',
@@ -651,7 +651,7 @@ class Languages
             'local' => "Slovenščina",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/si.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/si.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/si.svg',
         ],
         'sm' => [
             'code' => 'sm',
@@ -659,7 +659,7 @@ class Languages
             'local' => "gagana fa'a Samoa",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ws.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ws.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ws.svg',
         ],
         'sn' => [
             'code' => 'sn',
@@ -667,7 +667,7 @@ class Languages
             'local' => "chiShona",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/zw.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/zw.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/zw.svg',
         ],
         'so' => [
             'code' => 'so',
@@ -675,7 +675,7 @@ class Languages
             'local' => "Soomaaliga",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/so.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/so.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/so.svg',
         ],
         'sq' => [
             'code' => 'sq',
@@ -683,7 +683,7 @@ class Languages
             'local' => "Shqip",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/al.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/al.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/al.svg',
         ],
         'sr' => [
             'code' => 'sr',
@@ -691,7 +691,7 @@ class Languages
             'local' => "Српски",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/rs.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/rs.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/rs.svg',
         ],
         'st' => [
             'code' => 'st',
@@ -699,7 +699,7 @@ class Languages
             'local' => "seSotho",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ng.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ng.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ng.svg',
         ],
         'su' => [
             'code' => 'su',
@@ -707,7 +707,7 @@ class Languages
             'local' => "Sundanese",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/sd.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/sd.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/sd.svg',
         ],
         'sv' => [
             'code' => 'sv',
@@ -715,7 +715,7 @@ class Languages
             'local' => "Svenska",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/se.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/se.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/se.svg',
         ],
         'sw' => [
             'code' => 'sw',
@@ -723,7 +723,7 @@ class Languages
             'local' => "Kiswahili",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ke.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ke.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ke.svg',
         ],
         'ta' => [
             'code' => 'ta',
@@ -731,7 +731,7 @@ class Languages
             'local' => "தமிழ்",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/in.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/in.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
         ],
         'te' => [
             'code' => 'te',
@@ -739,7 +739,7 @@ class Languages
             'local' => "తెలుగు",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/in.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/in.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
         ],
         'tg' => [
             'code' => 'tg',
@@ -747,7 +747,7 @@ class Languages
             'local' => "Тоҷикӣ",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/tj.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/tj.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/tj.svg',
         ],
         'th' => [
             'code' => 'th',
@@ -755,7 +755,7 @@ class Languages
             'local' => "ภาษาไทย",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/th.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/th.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/th.svg',
         ],
         'tl' => [
             'code' => 'tl',
@@ -763,7 +763,7 @@ class Languages
             'local' => "Tagalog",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/in.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/in.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
         ],
         'to' => [
             'code' => 'to',
@@ -771,7 +771,7 @@ class Languages
             'local' => "faka-Tonga",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/to.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/to.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/to.svg',
         ],
         'tr' => [
             'code' => 'tr',
@@ -779,7 +779,7 @@ class Languages
             'local' => "Türkçe",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/tr.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/tr.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/tr.svg',
         ],
         'tt' => [
             'code' => 'tt',
@@ -787,7 +787,7 @@ class Languages
             'local' => "Tatar",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/tr.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/tr.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/tr.svg',
         ],
         'tw' => [
             'code' => 'tw',
@@ -795,7 +795,7 @@ class Languages
             'local' => "中文 (繁體)",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/tw.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/tw.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/tw.svg',
         ],
         'ty' => [
             'code' => 'ty',
@@ -803,7 +803,7 @@ class Languages
             'local' => "te reo Tahiti, te reo Māʼohi",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/pf.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/pf.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/pf.svg',
         ],
         'uk' => [
             'code' => 'uk',
@@ -811,7 +811,7 @@ class Languages
             'local' => "Українська",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ua.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ua.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ua.svg',
         ],
         'ur' => [
             'code' => 'ur',
@@ -819,7 +819,7 @@ class Languages
             'local' => "اردو",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/pk.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/pk.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/pk.svg',
         ],
         'uz' => [
             'code' => 'uz',
@@ -827,7 +827,7 @@ class Languages
             'local' => "O'zbek",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/uz.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/uz.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/uz.svg',
         ],
         'vi' => [
             'code' => 'vi',
@@ -835,7 +835,7 @@ class Languages
             'local' => "Tiếng Việt",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/vn.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/vn.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/vn.svg',
         ],
         'xh' => [
             'code' => 'xh',
@@ -843,7 +843,7 @@ class Languages
             'local' => "isiXhosa",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/za.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/za.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/za.svg',
         ],
         'yi' => [
             'code' => 'yi',
@@ -851,7 +851,7 @@ class Languages
             'local' => "ייִדיש",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/il.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/il.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/il.svg',
         ],
         'yo' => [
             'code' => 'yo',
@@ -859,7 +859,7 @@ class Languages
             'local' => "Yorùbá",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ng.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/ng.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/ng.svg',
         ],
         'zh' => [
             'code' => 'zh',
@@ -867,7 +867,7 @@ class Languages
             'local' => "中文 (简体)",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/cn.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/cn.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/cn.svg',
         ],
         'zu' => [
             'code' => 'zu',
@@ -875,7 +875,15 @@ class Languages
             'local' => "isiZulu",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/za.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/za.svg'
+            'square_flag_path' => 'flag-icon-css/1x1/za.svg',
+        ],
+        'hm' => [
+            'code' => 'hm',
+            'english' => "Hmong",
+            'local' => "Hmoob",
+            'rtl' => false,
+            'flag_path' => 'flags/4x3/hm.svg',
+            'square_flag_path' => 'flags/1x1/hm.svg',
         ]
     ];
 }
