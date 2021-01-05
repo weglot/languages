@@ -1,7 +1,10 @@
 {
   "name": "@weglot/languages",
   "description": "Weglot Languages provides a set languages data and classes allowing you to easily use multiples flags as images",
-  "main": "styles.scss",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "license": "UNLICENSED",
+  "private": true,
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
