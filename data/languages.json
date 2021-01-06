@@ -879,6 +879,14 @@
       "rtl": "false",
       "flag_path": "\"flags/4x3/hm.svg\"",
       "square_flag_path": "\"flags/1x1/hm.svg\""
+    },
+    {
+      "code": "cb",
+      "english_name": "Cebuano",
+      "local_name": "Sugbuanon",
+      "rtl": "false",
+      "flag_path": "\"flag-icon-css/4x3/ph.svg\"",
+      "square_flag_path": "\"flag-icon-css/1x1/ph.svg\""
     }
   ]
 }
