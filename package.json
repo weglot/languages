@@ -25,5 +25,5 @@
     "node-sass": "^5.0.0",
     "node-sass-json-importer": "^4.3.0"
   },
-  "version": "1.8.0"
+  "version": "1.8.1"
 }
