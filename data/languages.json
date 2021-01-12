@@ -66,8 +66,8 @@
     },
     {
       "code": "br",
-      "english_name": "Brazilian",
-      "local_name": "Brasileira",
+      "english_name": "Brazilian Portuguese",
+      "local_name": "Português Brasileiro",
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/br.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/br.svg\""
