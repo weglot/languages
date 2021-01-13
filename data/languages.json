@@ -887,6 +887,22 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ph.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ph.svg\""
+    },
+    {
+      "code": "or",
+      "english_name": "Odia",
+      "local_name": "ଓଡ଼ିଆ",
+      "rtl": "false",
+      "flag_path": "\"flag-icon-css/4x3/in.svg\"",
+      "square_flag_path": "\"flag-icon-css/1x1/in.svg\""
+    },
+    {
+      "code": "tk",
+      "english_name": "Turkmène",
+      "local_name": "Türkmen",
+      "rtl": "false",
+      "flag_path": "\"flag-icon-css/4x3/tr.svg\"",
+      "square_flag_path": "\"flag-icon-css/1x1/tr.svg\""
     }
   ]
 }
