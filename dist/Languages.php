@@ -71,8 +71,8 @@ class Languages
         ],
         'br' => [
             'code' => 'br',
-            'english' => "Brazilian",
-            'local' => "Brasileira",
+            'english' => "Brazilian Portuguese",
+            'local' => "Português Brasileiro",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/br.svg',
             'square_flag_path' => 'flag-icon-css/1x1/br.svg',
@@ -586,8 +586,8 @@ class Languages
             'english' => "Polish",
             'local' => "Polski",
             'rtl' => false,
-            'flag_path' => 'flag-icon-css/4x3/nl.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/nl.svg',
+            'flag_path' => 'flag-icon-css/4x3/pl.svg',
+            'square_flag_path' => 'flag-icon-css/1x1/pl.svg',
         ],
         'ps' => [
             'code' => 'ps',
@@ -884,6 +884,30 @@ class Languages
             'rtl' => false,
             'flag_path' => 'flags/4x3/hm.svg',
             'square_flag_path' => 'flags/1x1/hm.svg',
+        ],
+        'cb' => [
+            'code' => 'cb',
+            'english' => "Cebuano",
+            'local' => "Sugbuanon",
+            'rtl' => false,
+            'flag_path' => 'flag-icon-css/4x3/ph.svg',
+            'square_flag_path' => 'flag-icon-css/1x1/ph.svg',
+        ],
+        'or' => [
+            'code' => 'or',
+            'english' => "Odia",
+            'local' => "ଓଡ଼ିଆ",
+            'rtl' => false,
+            'flag_path' => 'flag-icon-css/4x3/in.svg',
+            'square_flag_path' => 'flag-icon-css/1x1/in.svg',
+        ],
+        'tk' => [
+            'code' => 'tk',
+            'english' => "Turkmène",
+            'local' => "Türkmen",
+            'rtl' => false,
+            'flag_path' => 'flag-icon-css/4x3/tr.svg',
+            'square_flag_path' => 'flag-icon-css/1x1/tr.svg',
         ]
     ];
 }
