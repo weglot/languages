@@ -35,10 +35,12 @@ fs.appendFileSync(
 Object.keys(CountriesJson).forEach((country, i, array) => {
     let flagPath = Reflect.get(CountriesJson[country], 'flag_path');
     let squareFlagPath = Reflect.get(CountriesJson[country], 'square_flag_path');
+    let code = flagPath.substring(flagPath.lastIndexOf("/") + 1, flagPath.lastIndexOf("."));
 
     fs.appendFileSync(countriesFilePath,`        '${country}' => [\n`);
     fs.appendFileSync(countriesFilePath,`            'flag_path' => '${flagPath}',\n`);
     fs.appendFileSync(countriesFilePath,`            'square_flag_path' => '${squareFlagPath}',\n`);
+    fs.appendFileSync(countriesFilePath,`            'code' => '${code}',\n`);
     fs.appendFileSync(countriesFilePath,`        ]${i !== array.length-1 ? "," : ''}\n`);
 });
 fs.appendFileSync(countriesFilePath, "    ];\n}");
