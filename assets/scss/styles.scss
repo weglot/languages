@@ -1,8 +1,9 @@
 @import "data/languages.json";
+@import "data/countries.json";
 
-$languages-repository-version: '1.6.0';
+$languages-repository-version: '1.11.0';
 
-.wg-flag {
+.wg-flag, .wg-country-flag {
   width: 22px;
   height: 16px;
   display: inline-block !important;
@@ -18,8 +19,15 @@ $languages-repository-version: '1.6.0';
     }
   }
 
+  @each $country in $countries {
+    &.wg-country-flag-#{map-get($country, code)} {
+      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($country, flag_path)}");
+    }
+  }
+
   &-square {
     @extend .wg-flag;
+    @extend .wg-country-flag;
 
     width: 16px;
 
@@ -31,19 +39,28 @@ $languages-repository-version: '1.6.0';
         background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($language, square_flag_path)}");
       }
     }
+
+    @each $country in $countries {
+      &.wg-country-flag-#{map-get($country, code)} {
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($country, flag_path)}");
+      }
+      &.wg-country-flag-#{map-get($country, code)} {
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/#{map-get($country, square_flag_path)}");
+      }
+    }
   }
 }
 
-.wg-flag-merge {
+.wg-flag-merge, .wg-country-flag-merge {
   position: relative;
 }
 
-.wg-flag-merge .wg-flag {
+.wg-flag-merge .wg-flag, .wg-country-flag-merge .wg-country-flag {
   position: absolute;
   left: 0;
 }
 
-.wg-flag-merge .wg-flag:last-child {
+.wg-flag-merge .wg-flag:last-child, .wg-country-flag-merge .wg-country-flag:last-child {
   -webkit-clip-path: polygon(100% 0%, 0% 100%, 100% 100%);
   clip-path: polygon(100% 0%, 0% 100%, 100% 100%);
 }
