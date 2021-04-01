@@ -32,15 +32,11 @@ fs.appendFileSync(
     "<?php\n\nnamespace Countries;\n\nclass Countries\n{\n    public static $countries = [\n"
 );
 
-Object.keys(CountriesJson).forEach((country, i, array) => {
-    let flagPath = Reflect.get(CountriesJson[country], 'flag_path');
-    let squareFlagPath = Reflect.get(CountriesJson[country], 'square_flag_path');
-    let code = flagPath.substring(flagPath.lastIndexOf("/") + 1, flagPath.lastIndexOf("."));
-
-    fs.appendFileSync(countriesFilePath,`        '${country}' => [\n`);
-    fs.appendFileSync(countriesFilePath,`            'flag_path' => '${flagPath}',\n`);
-    fs.appendFileSync(countriesFilePath,`            'square_flag_path' => '${squareFlagPath}',\n`);
-    fs.appendFileSync(countriesFilePath,`            'code' => '${code}',\n`);
+CountriesJson.countries.forEach((country, i, array) => {
+    fs.appendFileSync(countriesFilePath,`        '${country.name}' => [\n`);
+    fs.appendFileSync(countriesFilePath,`            'code' => '${country.code}',\n`);
+    fs.appendFileSync(countriesFilePath,`            'flag_path' => '${country.flag_path.replace(/[""]/g, '')}',\n`);
+    fs.appendFileSync(countriesFilePath,`            'square_flag_path' => '${country.square_flag_path.replace(/[""]/g, '')}',\n`);
     fs.appendFileSync(countriesFilePath,`        ]${i !== array.length-1 ? "," : ''}\n`);
 });
-fs.appendFileSync(countriesFilePath, "    ];\n}");
+fs.appendFileSync(languagesFilePath, "    ];\n}");
