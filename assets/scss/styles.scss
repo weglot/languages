@@ -43,6 +43,10 @@ $languages-repository-version: '1.11.0';
   }
 
   &-square {
+    @extend .wg-country-flag;
+
+    width: 16px;
+
     @each $country in $countries {
       &.wg-country-flag-#{map-get($country, code)} {
         background-image: url("https://cdn.jsdelivr.net/gh/weglot/countries@#{$languages-repository-version}/images/#{map-get($country, flag_path)}");

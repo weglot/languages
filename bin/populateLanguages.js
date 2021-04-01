@@ -39,4 +39,4 @@ CountriesJson.countries.forEach((country, i, array) => {
     fs.appendFileSync(countriesFilePath,`            'square_flag_path' => '${country.square_flag_path.replace(/[""]/g, '')}',\n`);
     fs.appendFileSync(countriesFilePath,`        ]${i !== array.length-1 ? "," : ''}\n`);
 });
-fs.appendFileSync(languagesFilePath, "    ];\n}");
+fs.appendFileSync(countriesFilePath, "    ];\n}");
