@@ -412,7 +412,7 @@
       "code": "ku",
       "english_name": "Kurdish",
       "local_name": "كوردی",
-      "rtl": "false",
+      "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/iq.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/iq.svg\""
     },
@@ -812,7 +812,7 @@
       "code": "ur",
       "english_name": "Urdu",
       "local_name": "اردو",
-      "rtl": "false",
+      "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/pk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pk.svg\""
     },
