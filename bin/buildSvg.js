@@ -18,7 +18,7 @@ const flags = [
     overlay: `<clipPath id="wg-round-mask"><circle cx="256" cy="256" r="256" fill="white" /></clipPath><g clip-path="url(#wg-round-mask)">$<svg></g>`,
   },
   {
-    name: "rectangle",
+    name: "rectangle_mat",
     inputSize: "4x3",
     overlay: `$<svg><rect width="100%" height="100%" style="fill:rgb(255,255,255,0.2)" />`,
   },
