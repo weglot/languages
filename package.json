@@ -8,10 +8,11 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
-    "build": "npm run sass-compiler && npm run flags-downloads && npm run populate-languages",
+    "build": "npm run sass-compiler && npm run flags-downloads && npm run populate-languages && npm run build-svg",
     "sass-compiler": "./node_modules/.bin/node-sass --importer node_modules/node-sass-json-importer/dist/cli.js --recursive ./assets/scss/styles.scss --output ./dist --output-style compressed --source-map true",
     "flags-downloads": "cp -a ./node_modules/flag-icon-css/flags/. ./images/flag-icon-css/",
-    "populate-languages": "node bin/populateLanguages.js"
+    "populate-languages": "node bin/populateLanguages.js",
+    "build-svg": "node bin/buildSvg.js"
   },
   "repository": {
     "type": "git",
