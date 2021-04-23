@@ -39,12 +39,12 @@ jobs:
           AWS_S3_BUCKET: cdn-staging.weglot.com
           SOURCE_DIR: ./build
           DEST_DIR: flags
-      # - name: Upload built flags on production
-      #   uses: jakejarvis/s3-sync-action@master
-      #   with:
-      #     # max age 2592000 (1 month) in production
-      #     args: --cache-control 'max-age=2592000' --delete --acl public-read --content-type 'image/svg+xml; charset=utf-8'
-      #   env:
-      #     AWS_S3_BUCKET: cdn.weglot.com
-      #     SOURCE_DIR: ./build
-      #     DEST_DIR: flags
+      - name: Upload built flags on production
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          # max age 2592000 (1 month) in production
+          args: --cache-control 'max-age=2592000' --delete --acl public-read --content-type 'image/svg+xml; charset=utf-8'
+        env:
+          AWS_S3_BUCKET: cdn.weglot.com
+          SOURCE_DIR: ./build
+          DEST_DIR: flags
