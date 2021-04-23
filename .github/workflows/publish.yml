@@ -38,7 +38,7 @@ jobs:
         env:
           AWS_S3_BUCKET: cdn-staging.weglot.com
           SOURCE_DIR: ./build
-          DEST_DIR: /flags
+          DEST_DIR: flags
       # - name: Upload built flags on production
       #   uses: jakejarvis/s3-sync-action@master
       #   with:
@@ -47,4 +47,4 @@ jobs:
       #   env:
       #     AWS_S3_BUCKET: cdn.weglot.com
       #     SOURCE_DIR: ./build
-      #     DEST_DIR: /flags
+      #     DEST_DIR: flags
