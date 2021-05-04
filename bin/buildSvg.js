@@ -1,4 +1,6 @@
 const fs = require("fs");
+const { languages } = require("../data/languages.json");
+const { countries } = require("../data/countries.json");
 
 const imagesDir = `${__dirname}/../images`;
 const buildDir = `${__dirname}/../build`;
@@ -6,20 +8,20 @@ const buildDir = `${__dirname}/../build`;
 const flags = [
   {
     name: "square",
-    inputSize: "1x1",
+    path: "square_flag_path",
   },
   {
     name: "shiny",
-    inputSize: "4x3",
+    path: "flag_path",
   },
   {
     name: "circle",
-    inputSize: "1x1",
+    path: "square_flag_path",
     overlay: `<clipPath id="wg-round-mask"><circle cx="256" cy="256" r="256" fill="white" /></clipPath><g clip-path="url(#wg-round-mask)">$<svg></g>`,
   },
   {
     name: "rectangle_mat",
-    inputSize: "4x3",
+    path: "flag_path",
     overlay: `$<svg><rect width="100%" height="100%" style="fill:rgb(255,255,255,0.2)" />`,
   },
 ];
@@ -35,23 +37,20 @@ for (const flag of flags) {
     fs.mkdirSync(outputPath);
   }
 
-  ["flag-icon-css", "flags"]
-    .map((folder) => {
-      const path = `${imagesDir}/${folder}/${flag.inputSize}`;
-      return fs.readdirSync(path).map((file) => ({
-        file,
-        path,
-      }));
-    })
+  [...languages, ...countries]
+    .map((details) => ({
+      input: `${imagesDir}/${details[flag.path].replace(/"/g, "")}`,
+      output: `${outputPath}/${details.code}.svg`,
+    }))
     .flat()
-    .forEach(({ path, file }) => {
-      let svg = fs.readFileSync(`${path}/${file}`).toString();
+    .forEach(({ input, output }) => {
+      let svg = fs.readFileSync(input).toString();
 
       if (flag.overlay) {
         const regex = /(<svg(?:[^>]+)>)(?<svg>[\s\S]+)(<\/svg>)/i;
         svg = svg.replace(regex, `$1${flag.overlay}$3`);
       }
 
-      fs.writeFileSync(`${outputPath}/${file}`, svg);
+      fs.writeFileSync(output, svg);
     });
 }
