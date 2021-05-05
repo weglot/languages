@@ -417,7 +417,7 @@ class Languages
             'code' => 'ku',
             'english' => "Kurdish",
             'local' => "كوردی",
-            'rtl' => false,
+            'rtl' => true,
             'flag_path' => 'flag-icon-css/4x3/iq.svg',
             'square_flag_path' => 'flag-icon-css/1x1/iq.svg',
         ],
@@ -817,7 +817,7 @@ class Languages
             'code' => 'ur',
             'english' => "Urdu",
             'local' => "اردو",
-            'rtl' => false,
+            'rtl' => true,
             'flag_path' => 'flag-icon-css/4x3/pk.svg',
             'square_flag_path' => 'flag-icon-css/1x1/pk.svg',
         ],
@@ -908,6 +908,14 @@ class Languages
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/tr.svg',
             'square_flag_path' => 'flag-icon-css/1x1/tr.svg',
+        ],
+        'ug' => [
+            'code' => 'ug',
+            'english' => "Uyghur",
+            'local' => "ئۇيغۇر",
+            'rtl' => true,
+            'flag_path' => 'flags/4x3/ug.svg',
+            'square_flag_path' => 'flags/1x1/ug.svg',
         ]
     ];
 }
