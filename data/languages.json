@@ -903,6 +903,14 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tr.svg\""
+    },
+    {
+      "code": "ug",
+      "english_name": "Uyghur",
+      "local_name": "ئۇيغۇر",
+      "rtl": "true",
+      "flag_path": "\"flags/4x3/ug.svg\"",
+      "square_flag_path": "\"flags/1x1/ug.svg\""
     }
   ]
 }
