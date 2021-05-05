@@ -37,7 +37,7 @@ for (const flag of flags) {
     fs.mkdirSync(outputPath);
   }
 
-  [...languages, ...countries]
+  countries
     .map((details) => ({
       input: `${imagesDir}/${details[flag.path].replace(/"/g, "")}`,
       output: `${outputPath}/${details.code}.svg`,
