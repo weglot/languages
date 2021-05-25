@@ -4,7 +4,7 @@
 
 Available on cdn.weglot.com
 
-`https://cdn.weglot.com/flags/{flag_type}/{code}.svg`
+`https://cdn.weglot.com/flags/{flag_type}/{country_flag_code}.svg`
 
 Where `flag_type` is one of
 - rectangle_mat
@@ -12,7 +12,7 @@ Where `flag_type` is one of
 - circle
 - square
 
-And `code` is country code: `gb`
+And `country_flag_code` is country code: `gb`
 
 Examples:
 
