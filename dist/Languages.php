@@ -916,6 +916,14 @@ class Languages
             'rtl' => true,
             'flag_path' => 'flags/4x3/ug.svg',
             'square_flag_path' => 'flags/1x1/ug.svg',
+        ],
+        'fc' => [
+            'code' => 'fc',
+            'english' => "French (Canada)",
+            'local' => "Français (Canada)",
+            'rtl' => false,
+            'flag_path' => 'flags/4x3/ca.svg',
+            'square_flag_path' => 'flags/1x1/ca.svg',
         ]
     ];
 }

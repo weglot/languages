@@ -7,7 +7,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/za.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/za.svg\"",
-      "country_flag_code": "za"
+      "country_flag_code": "za",
+      "variant": "false"
     },
     {
       "code": "am",
@@ -16,7 +17,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/et.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/et.svg\"",
-      "country_flag_code": "et"
+      "country_flag_code": "et",
+      "variant": "false"
     },
     {
       "code": "ar",
@@ -25,7 +27,8 @@
       "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/sa.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/sa.svg\"",
-      "country_flag_code": "sa"
+      "country_flag_code": "sa",
+      "variant": "false"
     },
     {
       "code": "az",
@@ -34,7 +37,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/az.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/az.svg\"",
-      "country_flag_code": "az"
+      "country_flag_code": "az",
+      "variant": "false"
     },
     {
       "code": "ba",
@@ -43,7 +47,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ru.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ru.svg\"",
-      "country_flag_code": "ru"
+      "country_flag_code": "ru",
+      "variant": "false"
     },
     {
       "code": "be",
@@ -52,7 +57,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/by.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/by.svg\"",
-      "country_flag_code": "by"
+      "country_flag_code": "by",
+      "variant": "false"
     },
     {
       "code": "bg",
@@ -61,7 +67,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/bg.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/bg.svg\"",
-      "country_flag_code": "bg"
+      "country_flag_code": "bg",
+      "variant": "false"
     },
     {
       "code": "bn",
@@ -70,7 +77,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/bd.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/bd.svg\"",
-      "country_flag_code": "bd"
+      "country_flag_code": "bd",
+      "variant": "false"
     },
     {
       "code": "br",
@@ -79,7 +87,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/br.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/br.svg\"",
-      "country_flag_code": "br"
+      "country_flag_code": "br",
+      "variant": "false"
     },
     {
       "code": "bs",
@@ -88,7 +97,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ba.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ba.svg\"",
-      "country_flag_code": "ba"
+      "country_flag_code": "ba",
+      "variant": "false"
     },
     {
       "code": "ca",
@@ -97,7 +107,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/es-ca.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/es-ca.svg\"",
-      "country_flag_code": "es-ca"
+      "country_flag_code": "es-ca",
+      "variant": "false"
     },
     {
       "code": "co",
@@ -106,7 +117,8 @@
       "rtl": "false",
       "flag_path": "\"flags/4x3/co.svg\"",
       "square_flag_path": "\"flags/1x1/co.svg\"",
-      "country_flag_code": "co"
+      "country_flag_code": "co",
+      "variant": "false"
     },
     {
       "code": "cs",
@@ -115,7 +127,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/cz.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/cz.svg\"",
-      "country_flag_code": "cz"
+      "country_flag_code": "cz",
+      "variant": "false"
     },
     {
       "code": "cy",
@@ -124,7 +137,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/gb-wls.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/gb-wls.svg\"",
-      "country_flag_code": "gb-wls"
+      "country_flag_code": "gb-wls",
+      "variant": "false"
     },
     {
       "code": "da",
@@ -133,7 +147,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/dk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/dk.svg\"",
-      "country_flag_code": "dk"
+      "country_flag_code": "dk",
+      "variant": "false"
     },
     {
       "code": "de",
@@ -142,7 +157,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/de.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/de.svg\"",
-      "country_flag_code": "de"
+      "country_flag_code": "de",
+      "variant": "false"
     },
     {
       "code": "el",
@@ -151,7 +167,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/gr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/gr.svg\"",
-      "country_flag_code": "gr"
+      "country_flag_code": "gr",
+      "variant": "false"
     },
     {
       "code": "en",
@@ -160,7 +177,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/gb.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/gb.svg\"",
-      "country_flag_code": "gb"
+      "country_flag_code": "gb",
+      "variant": "false"
     },
     {
       "code": "eo",
@@ -169,7 +187,8 @@
       "rtl": "false",
       "flag_path": "\"flags/4x3/eo.svg\"",
       "square_flag_path": "\"flags/1x1/eo.svg\"",
-      "country_flag_code": "eo"
+      "country_flag_code": "eo",
+      "variant": "false"
     },
     {
       "code": "es",
@@ -178,7 +197,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/es.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/es.svg\"",
-      "country_flag_code": "es"
+      "country_flag_code": "es",
+      "variant": "false"
     },
     {
       "code": "et",
@@ -187,7 +207,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ee.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ee.svg\"",
-      "country_flag_code": "ee"
+      "country_flag_code": "ee",
+      "variant": "false"
     },
     {
       "code": "eu",
@@ -196,7 +217,8 @@
       "rtl": "false",
       "flag_path": "\"flags/4x3/eu.svg\"",
       "square_flag_path": "\"flags/1x1/eu.svg\"",
-      "country_flag_code": "eu"
+      "country_flag_code": "eu",
+      "variant": "false"
     },
     {
       "code": "fa",
@@ -205,7 +227,8 @@
       "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/ir.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ir.svg\"",
-      "country_flag_code": "ir"
+      "country_flag_code": "ir",
+      "variant": "false"
     },
     {
       "code": "fi",
@@ -214,7 +237,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/fi.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/fi.svg\"",
-      "country_flag_code": "fi"
+      "country_flag_code": "fi",
+      "variant": "false"
     },
     {
       "code": "fj",
@@ -223,7 +247,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/fj.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/fj.svg\"",
-      "country_flag_code": "fj"
+      "country_flag_code": "fj",
+      "variant": "false"
     },
     {
       "code": "fl",
@@ -232,7 +257,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ph.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ph.svg\"",
-      "country_flag_code": "ph"
+      "country_flag_code": "ph",
+      "variant": "false"
     },
     {
       "code": "fr",
@@ -241,7 +267,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/fr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/fr.svg\"",
-      "country_flag_code": "fr"
+      "country_flag_code": "fr",
+      "variant": "false"
     },
     {
       "code": "fy",
@@ -250,7 +277,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/nl.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/nl.svg\"",
-      "country_flag_code": "nl"
+      "country_flag_code": "nl",
+      "variant": "false"
     },
     {
       "code": "ga",
@@ -259,7 +287,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ie.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ie.svg\"",
-      "country_flag_code": "ie"
+      "country_flag_code": "ie",
+      "variant": "false"
     },
     {
       "code": "gd",
@@ -268,7 +297,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/gb-sct.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/gb-sct.svg\"",
-      "country_flag_code": "gb-sct"
+      "country_flag_code": "gb-sct",
+      "variant": "false"
     },
     {
       "code": "gl",
@@ -277,7 +307,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/es-ga.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/es-ga.svg\"",
-      "country_flag_code": "es-ga"
+      "country_flag_code": "es-ga",
+      "variant": "false"
     },
     {
       "code": "gu",
@@ -286,7 +317,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "ha",
@@ -295,7 +327,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ne.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ne.svg\"",
-      "country_flag_code": "ne"
+      "country_flag_code": "ne",
+      "variant": "false"
     },
     {
       "code": "he",
@@ -304,7 +337,8 @@
       "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/il.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/il.svg\"",
-      "country_flag_code": "il"
+      "country_flag_code": "il",
+      "variant": "false"
     },
     {
       "code": "hi",
@@ -313,7 +347,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "hr",
@@ -322,7 +357,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/hr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/hr.svg\"",
-      "country_flag_code": "hr"
+      "country_flag_code": "hr",
+      "variant": "false"
     },
     {
       "code": "ht",
@@ -331,7 +367,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ht.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ht.svg\"",
-      "country_flag_code": "ht"
+      "country_flag_code": "ht",
+      "variant": "false"
     },
     {
       "code": "hu",
@@ -340,7 +377,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/hu.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/hu.svg\"",
-      "country_flag_code": "hu"
+      "country_flag_code": "hu",
+      "variant": "false"
     },
     {
       "code": "hw",
@@ -349,7 +387,8 @@
       "rtl": "false",
       "flag_path": "\"flags/4x3/hw.svg\"",
       "square_flag_path": "\"flags/1x1/hw.svg\"",
-      "country_flag_code": "hw"
+      "country_flag_code": "hw",
+      "variant": "false"
     },
     {
       "code": "hy",
@@ -358,7 +397,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/am.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/am.svg\"",
-      "country_flag_code": "am"
+      "country_flag_code": "am",
+      "variant": "false"
     },
     {
       "code": "id",
@@ -367,7 +407,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/id.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/id.svg\"",
-      "country_flag_code": "id"
+      "country_flag_code": "id",
+      "variant": "false"
     },
     {
       "code": "ig",
@@ -376,7 +417,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ne.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ne.svg\"",
-      "country_flag_code": "ne"
+      "country_flag_code": "ne",
+      "variant": "false"
     },
     {
       "code": "is",
@@ -385,7 +427,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/is.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/is.svg\"",
-      "country_flag_code": "is"
+      "country_flag_code": "is",
+      "variant": "false"
     },
     {
       "code": "it",
@@ -394,7 +437,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/it.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/it.svg\"",
-      "country_flag_code": "it"
+      "country_flag_code": "it",
+      "variant": "false"
     },
     {
       "code": "ja",
@@ -403,7 +447,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/jp.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/jp.svg\"",
-      "country_flag_code": "jp"
+      "country_flag_code": "jp",
+      "variant": "false"
     },
     {
       "code": "jv",
@@ -412,7 +457,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/id.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/id.svg\"",
-      "country_flag_code": "id"
+      "country_flag_code": "id",
+      "variant": "false"
     },
     {
       "code": "ka",
@@ -421,7 +467,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ge.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ge.svg\"",
-      "country_flag_code": "ge"
+      "country_flag_code": "ge",
+      "variant": "false"
     },
     {
       "code": "kk",
@@ -430,7 +477,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/kz.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/kz.svg\"",
-      "country_flag_code": "kz"
+      "country_flag_code": "kz",
+      "variant": "false"
     },
     {
       "code": "km",
@@ -439,7 +487,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/kh.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/kh.svg\"",
-      "country_flag_code": "kh"
+      "country_flag_code": "kh",
+      "variant": "false"
     },
     {
       "code": "kn",
@@ -448,7 +497,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "ko",
@@ -457,7 +507,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/kr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/kr.svg\"",
-      "country_flag_code": "kr"
+      "country_flag_code": "kr",
+      "variant": "false"
     },
     {
       "code": "ku",
@@ -466,7 +517,8 @@
       "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/iq.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/iq.svg\"",
-      "country_flag_code": "iq"
+      "country_flag_code": "iq",
+      "variant": "false"
     },
     {
       "code": "ky",
@@ -475,7 +527,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/kg.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/kg.svg\"",
-      "country_flag_code": "kg"
+      "country_flag_code": "kg",
+      "variant": "false"
     },
     {
       "code": "la",
@@ -484,7 +537,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/it.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/it.svg\"",
-      "country_flag_code": "it"
+      "country_flag_code": "it",
+      "variant": "false"
     },
     {
       "code": "lb",
@@ -493,7 +547,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/lu.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/lu.svg\"",
-      "country_flag_code": "lu"
+      "country_flag_code": "lu",
+      "variant": "false"
     },
     {
       "code": "lo",
@@ -502,7 +557,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/la.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/la.svg\"",
-      "country_flag_code": "la"
+      "country_flag_code": "la",
+      "variant": "false"
     },
     {
       "code": "lt",
@@ -511,7 +567,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/lt.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/lt.svg\"",
-      "country_flag_code": "lt"
+      "country_flag_code": "lt",
+      "variant": "false"
     },
     {
       "code": "lv",
@@ -520,7 +577,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/lv.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/lv.svg\"",
-      "country_flag_code": "lv"
+      "country_flag_code": "lv",
+      "variant": "false"
     },
     {
       "code": "mg",
@@ -529,7 +587,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mg.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mg.svg\"",
-      "country_flag_code": "mg"
+      "country_flag_code": "mg",
+      "variant": "false"
     },
     {
       "code": "mi",
@@ -538,7 +597,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/nz.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/nz.svg\"",
-      "country_flag_code": "nz"
+      "country_flag_code": "nz",
+      "variant": "false"
     },
     {
       "code": "mk",
@@ -547,7 +607,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mk.svg\"",
-      "country_flag_code": "mk"
+      "country_flag_code": "mk",
+      "variant": "false"
     },
     {
       "code": "ml",
@@ -556,7 +617,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "mn",
@@ -565,7 +627,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mn.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mn.svg\"",
-      "country_flag_code": "mn"
+      "country_flag_code": "mn",
+      "variant": "false"
     },
     {
       "code": "mr",
@@ -574,7 +637,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "ms",
@@ -583,7 +647,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/my.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/my.svg\"",
-      "country_flag_code": "my"
+      "country_flag_code": "my",
+      "variant": "false"
     },
     {
       "code": "mt",
@@ -592,7 +657,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mt.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mt.svg\"",
-      "country_flag_code": "mt"
+      "country_flag_code": "mt",
+      "variant": "false"
     },
     {
       "code": "my",
@@ -601,7 +667,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mm.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mm.svg\"",
-      "country_flag_code": "mm"
+      "country_flag_code": "mm",
+      "variant": "false"
     },
     {
       "code": "ne",
@@ -610,7 +677,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/np.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/np.svg\"",
-      "country_flag_code": "np"
+      "country_flag_code": "np",
+      "variant": "false"
     },
     {
       "code": "nl",
@@ -619,7 +687,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/nl.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/nl.svg\"",
-      "country_flag_code": "nl"
+      "country_flag_code": "nl",
+      "variant": "false"
     },
     {
       "code": "no",
@@ -628,7 +697,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/no.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/no.svg\"",
-      "country_flag_code": "no"
+      "country_flag_code": "no",
+      "variant": "false"
     },
     {
       "code": "ny",
@@ -637,7 +707,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/mw.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/mw.svg\"",
-      "country_flag_code": "mw"
+      "country_flag_code": "mw",
+      "variant": "false"
     },
     {
       "code": "pa",
@@ -646,7 +717,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "pl",
@@ -655,7 +727,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/pl.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pl.svg\"",
-      "country_flag_code": "pl"
+      "country_flag_code": "pl",
+      "variant": "false"
     },
     {
       "code": "ps",
@@ -664,7 +737,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/af.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/af.svg\"",
-      "country_flag_code": "af"
+      "country_flag_code": "af",
+      "variant": "false"
     },
     {
       "code": "pt",
@@ -673,7 +747,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/pt.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pt.svg\"",
-      "country_flag_code": "pt"
+      "country_flag_code": "pt",
+      "variant": "false"
     },
     {
       "code": "ro",
@@ -682,7 +757,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ro.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ro.svg\"",
-      "country_flag_code": "ro"
+      "country_flag_code": "ro",
+      "variant": "false"
     },
     {
       "code": "ru",
@@ -691,7 +767,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ru.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ru.svg\"",
-      "country_flag_code": "ru"
+      "country_flag_code": "ru",
+      "variant": "false"
     },
     {
       "code": "sd",
@@ -700,7 +777,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/pk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pk.svg\"",
-      "country_flag_code": "pk"
+      "country_flag_code": "pk",
+      "variant": "false"
     },
     {
       "code": "si",
@@ -709,7 +787,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/lk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/lk.svg\"",
-      "country_flag_code": "lk"
+      "country_flag_code": "lk",
+      "variant": "false"
     },
     {
       "code": "sk",
@@ -718,7 +797,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/sk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/sk.svg\"",
-      "country_flag_code": "sk"
+      "country_flag_code": "sk",
+      "variant": "false"
     },
     {
       "code": "sl",
@@ -727,7 +807,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/si.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/si.svg\"",
-      "country_flag_code": "si"
+      "country_flag_code": "si",
+      "variant": "false"
     },
     {
       "code": "sm",
@@ -736,7 +817,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ws.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ws.svg\"",
-      "country_flag_code": "ws"
+      "country_flag_code": "ws",
+      "variant": "false"
     },
     {
       "code": "sn",
@@ -745,7 +827,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/zw.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/zw.svg\"",
-      "country_flag_code": "zw"
+      "country_flag_code": "zw",
+      "variant": "false"
     },
     {
       "code": "so",
@@ -754,7 +837,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/so.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/so.svg\"",
-      "country_flag_code": "so"
+      "country_flag_code": "so",
+      "variant": "false"
     },
     {
       "code": "sq",
@@ -763,7 +847,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/al.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/al.svg\"",
-      "country_flag_code": "al"
+      "country_flag_code": "al",
+      "variant": "false"
     },
     {
       "code": "sr",
@@ -772,7 +857,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/rs.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/rs.svg\"",
-      "country_flag_code": "rs"
+      "country_flag_code": "rs",
+      "variant": "false"
     },
     {
       "code": "st",
@@ -781,7 +867,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ng.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ng.svg\"",
-      "country_flag_code": "ng"
+      "country_flag_code": "ng",
+      "variant": "false"
     },
     {
       "code": "su",
@@ -790,7 +877,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/sd.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/sd.svg\"",
-      "country_flag_code": "sd"
+      "country_flag_code": "sd",
+      "variant": "false"
     },
     {
       "code": "sv",
@@ -799,7 +887,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/se.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/se.svg\"",
-      "country_flag_code": "se"
+      "country_flag_code": "se",
+      "variant": "false"
     },
     {
       "code": "sw",
@@ -808,7 +897,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ke.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ke.svg\"",
-      "country_flag_code": "ke"
+      "country_flag_code": "ke",
+      "variant": "false"
     },
     {
       "code": "ta",
@@ -817,7 +907,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "te",
@@ -826,7 +917,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "tg",
@@ -835,7 +927,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tj.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tj.svg\"",
-      "country_flag_code": "tj"
+      "country_flag_code": "tj",
+      "variant": "false"
     },
     {
       "code": "th",
@@ -844,7 +937,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/th.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/th.svg\"",
-      "country_flag_code": "th"
+      "country_flag_code": "th",
+      "variant": "false"
     },
     {
       "code": "tl",
@@ -853,7 +947,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "to",
@@ -862,7 +957,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/to.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/to.svg\"",
-      "country_flag_code": "to"
+      "country_flag_code": "to",
+      "variant": "false"
     },
     {
       "code": "tr",
@@ -871,7 +967,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tr.svg\"",
-      "country_flag_code": "tr"
+      "country_flag_code": "tr",
+      "variant": "false"
     },
     {
       "code": "tt",
@@ -880,7 +977,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tr.svg\"",
-      "country_flag_code": "tr"
+      "country_flag_code": "tr",
+      "variant": "false"
     },
     {
       "code": "tw",
@@ -889,7 +987,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tw.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tw.svg\"",
-      "country_flag_code": "tw"
+      "country_flag_code": "tw",
+      "variant": "false"
     },
     {
       "code": "ty",
@@ -898,7 +997,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/pf.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pf.svg\"",
-      "country_flag_code": "pf"
+      "country_flag_code": "pf",
+      "variant": "false"
     },
     {
       "code": "uk",
@@ -907,7 +1007,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ua.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ua.svg\"",
-      "country_flag_code": "ua"
+      "country_flag_code": "ua",
+      "variant": "false"
     },
     {
       "code": "ur",
@@ -916,7 +1017,8 @@
       "rtl": "true",
       "flag_path": "\"flag-icon-css/4x3/pk.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/pk.svg\"",
-      "country_flag_code": "pk"
+      "country_flag_code": "pk",
+      "variant": "false"
     },
     {
       "code": "uz",
@@ -925,7 +1027,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/uz.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/uz.svg\"",
-      "country_flag_code": "uz"
+      "country_flag_code": "uz",
+      "variant": "false"
     },
     {
       "code": "vi",
@@ -934,7 +1037,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/vn.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/vn.svg\"",
-      "country_flag_code": "vn"
+      "country_flag_code": "vn",
+      "variant": "false"
     },
     {
       "code": "xh",
@@ -943,7 +1047,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/za.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/za.svg\"",
-      "country_flag_code": "za"
+      "country_flag_code": "za",
+      "variant": "false"
     },
     {
       "code": "yi",
@@ -952,7 +1057,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/il.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/il.svg\"",
-      "country_flag_code": "il"
+      "country_flag_code": "il",
+      "variant": "false"
     },
     {
       "code": "yo",
@@ -961,7 +1067,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ng.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ng.svg\"",
-      "country_flag_code": "ng"
+      "country_flag_code": "ng",
+      "variant": "false"
     },
     {
       "code": "zh",
@@ -970,7 +1077,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/cn.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/cn.svg\"",
-      "country_flag_code": "cn"
+      "country_flag_code": "cn",
+      "variant": "false"
     },
     {
       "code": "zu",
@@ -979,7 +1087,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/za.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/za.svg\"",
-      "country_flag_code": "za"
+      "country_flag_code": "za",
+      "variant": "false"
     },
     {
       "code": "hm",
@@ -988,7 +1097,8 @@
       "rtl": "false",
       "flag_path": "\"flags/4x3/hm.svg\"",
       "square_flag_path": "\"flags/1x1/hm.svg\"",
-      "country_flag_code": "hm"
+      "country_flag_code": "hm",
+      "variant": "false"
     },
     {
       "code": "cb",
@@ -997,7 +1107,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/ph.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/ph.svg\"",
-      "country_flag_code": "ph"
+      "country_flag_code": "ph",
+      "variant": "false"
     },
     {
       "code": "or",
@@ -1006,7 +1117,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/in.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/in.svg\"",
-      "country_flag_code": "in"
+      "country_flag_code": "in",
+      "variant": "false"
     },
     {
       "code": "tk",
@@ -1015,7 +1127,8 @@
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/tr.svg\"",
       "square_flag_path": "\"flag-icon-css/1x1/tr.svg\"",
-      "country_flag_code": "tr"
+      "country_flag_code": "tr",
+      "variant": "false"
     },
     {
       "code": "ug",
@@ -1024,7 +1137,18 @@
       "rtl": "true",
       "flag_path": "\"flags/4x3/ug.svg\"",
       "square_flag_path": "\"flags/1x1/ug.svg\"",
-      "country_flag_code": "ug"
+      "country_flag_code": "ug",
+      "variant": "false"
+    },
+    {
+      "code": "fc",
+      "english_name": "French (Canada)",
+      "local_name": "Français (Canada)",
+      "rtl": "false",
+      "flag_path": "\"flags/4x3/ca.svg\"",
+      "square_flag_path": "\"flags/1x1/ca.svg\"",
+      "country_flag_code": "ca",
+      "variant": "true"
     }
   ]
 }
