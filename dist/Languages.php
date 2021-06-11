@@ -924,6 +924,14 @@ class Languages
             'rtl' => false,
             'flag_path' => 'flags/4x3/ca.svg',
             'square_flag_path' => 'flags/1x1/ca.svg',
+        ],
+        'as' => [
+            'code' => 'as',
+            'english' => "Assamese",
+            'local' => "অসমীয়া",
+            'rtl' => false,
+            'flag_path' => 'flags/4x3/in.svg',
+            'square_flag_path' => 'flags/1x1/in.svg',
         ]
     ];
 }

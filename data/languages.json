@@ -1149,6 +1149,16 @@
       "square_flag_path": "\"flags/1x1/ca.svg\"",
       "country_flag_code": "ca",
       "variant": "true"
+    },
+    {
+      "code": "as",
+      "english_name": "Assamese",
+      "local_name": "অসমীয়া",
+      "rtl": "false",
+      "flag_path": "\"flags/4x3/in.svg\"",
+      "square_flag_path": "\"flags/1x1/in.svg\"",
+      "country_flag_code": "in",
+      "variant": "false"
     }
   ]
 }
