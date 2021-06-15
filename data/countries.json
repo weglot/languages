@@ -37,12 +37,6 @@
         "square_flag_path": "\"flag-icon-css/1x1/ao.svg\""
       },
       {
-        "name": "Anguilla",
-        "code": "al",
-        "flag_path": "\"flag-icon-css/4x3/al.svg\"",
-        "square_flag_path": "\"flag-icon-css/1x1/al.svg\""
-      },
-      {
         "name": "Antarctica",
         "code": "aq",
         "flag_path": "\"flag-icon-css/4x3/aq.svg\"",
@@ -1271,12 +1265,6 @@
         "code": "cd",
         "flag_path": "\"flag-icon-css/4x3/cd.svg\"",
         "square_flag_path": "\"flag-icon-css/1x1/cd.svg\""
-      },
-      {
-        "name": "Timor Leste",
-        "code": "tl",
-        "flag_path": "\"flag-icon-css/4x3/tl.svg\"",
-        "square_flag_path": "\"flag-icon-css/1x1/tl.svg\""
       },
       {
         "name": "Togo",
