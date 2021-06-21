@@ -852,7 +852,7 @@
     },
     {
       "code": "sr",
-      "english_name": "Serbian",
+      "english_name": "Serbian (Cyrillic)",
       "local_name": "Српски",
       "rtl": "false",
       "flag_path": "\"flag-icon-css/4x3/rs.svg\"",
