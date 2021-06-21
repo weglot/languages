@@ -1159,6 +1159,16 @@
       "square_flag_path": "\"flags/1x1/in.svg\"",
       "country_flag_code": "in",
       "variant": "false"
+    },
+    {
+      "code": "sa",
+      "english_name": "Serbian (Latin)",
+      "local_name": "Srpski",
+      "rtl": "false",
+      "flag_path": "\"flags/4x3/rs.svg\"",
+      "square_flag_path": "\"flags/1x1/rs.svg\"",
+      "country_flag_code": "rs",
+      "variant": "false"
     }
   ]
 }
