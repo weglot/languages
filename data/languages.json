@@ -115,9 +115,9 @@
       "english_name": "Corsican",
       "local_name": "Corsu",
       "rtl": "false",
-      "flag_path": "\"flags/4x3/co.svg\"",
-      "square_flag_path": "\"flags/1x1/co.svg\"",
-      "country_flag_code": "co",
+      "flag_path": "\"flags/4x3/fr-co.svg\"",
+      "square_flag_path": "\"flags/1x1/fr-co.svg\"",
+      "country_flag_code": "fr-co",
       "variant": "false"
     },
     {
