@@ -721,6 +721,12 @@
         "square_flag_path": "\"flag-icon-css/1x1/lr.svg\""
       },
       {
+        "name": "Libya",
+        "code": "ly",
+        "flag_path": "\"flag-icon-css/4x3/ly.svg\"",
+        "square_flag_path": "\"flag-icon-css/1x1/ly.svg\""
+      },
+      {
         "name": "Liechtenstein",
         "code": "li",
         "flag_path": "\"flag-icon-css/4x3/li.svg\"",
