@@ -1135,9 +1135,9 @@
       "english_name": "Uyghur",
       "local_name": "ئۇيغۇر",
       "rtl": "true",
-      "flag_path": "\"flags/4x3/ug.svg\"",
-      "square_flag_path": "\"flags/1x1/ug.svg\"",
-      "country_flag_code": "ug",
+      "flag_path": "\"flags/4x3/uig.svg\"",
+      "square_flag_path": "\"flags/1x1/uig.svg\"",
+      "country_flag_code": "uig",
       "variant": "false"
     },
     {
