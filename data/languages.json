@@ -215,9 +215,9 @@
       "english_name": "Basque",
       "local_name": "Euskara",
       "rtl": "false",
-      "flag_path": "\"flags/4x3/eu.svg\"",
-      "square_flag_path": "\"flags/1x1/eu.svg\"",
-      "country_flag_code": "eu",
+      "flag_path": "\"flags/4x3/eus.svg\"",
+      "square_flag_path": "\"flags/1x1/eus.svg\"",
+      "country_flag_code": "eus",
       "variant": "false"
     },
     {
