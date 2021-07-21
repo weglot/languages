@@ -1039,6 +1039,12 @@
         "square_flag_path": "\"flag-icon-css/1x1/qa.svg\""
       },
       {
+        "name": "Quebec",
+        "code": "fr-ca",
+        "flag_path": "\"flags/4x3/fr-ca.svg\"",
+        "square_flag_path": "\"flags/1x1/fr-ca.svg\""
+      },
+      {
         "name": "Reunion",
         "code": "re",
         "flag_path": "\"flag-icon-css/4x3/re.svg\"",
