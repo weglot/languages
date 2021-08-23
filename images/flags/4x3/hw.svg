@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 512 341.3" style="enable-background:new 0 0 512 512;" xmlns="http://www.w3.org/2000/svg">
-  <rect y="0.002" style="fill:#F0F0F0;" width="512" height="341.326" />
-  <rect y="42.665" style="fill:#D80027;" width="512" height="42.663" />
-  <rect y="85.328" style="fill:#0052B4;" width="512" height="42.663" />
-  <rect y="170.665" style="fill:#D80027;" width="512" height="42.663" />
-  <rect y="213.328" style="fill:#0052B4;" width="512" height="42.663" />
-  <rect y="298.665" style="fill:#D80027;" width="512" height="42.663" />
-  <rect y="0.002" style="fill:#F0F0F0;" width="256" height="170.663" />
+<svg viewBox="0 0 512 384" style="enable-background:new 0 0 512 512;" xmlns="http://www.w3.org/2000/svg">
+  <rect y="0" style="fill:#F0F0F0;" width="512" height="384" />
+  <rect y="48" style="fill:#D80027;" width="512" height="48" />
+  <rect y="96" style="fill:#0052B4;" width="512" height="48" />
+  <rect y="192" style="fill:#D80027;" width="512" height="48" />
+  <rect y="240" style="fill:#0052B4;" width="512" height="48" />
+  <rect y="336" style="fill:#D80027;" width="512" height="48" />
+  <rect y="0.002" style="fill:#F0F0F0;" width="256" height="192" />
+   <g transform="scale(1 1.125)">
   <polygon style="fill:#D80027;"
     points="144 0 112 0 112 69.334 0 69.334 0 101.334 112 101.334 112 170.667 144 170.667 144 101.334 256 101.334 256 69.334 144 69.334" />
   <g transform="matrix(1, 0, 0, 1, 0, -85.335968)">
@@ -33,4 +34,5 @@
     <polygon style="fill:#0052B4;" points="155.826,133.912 155.826,85.337 243.255,85.337 &#9;" />
   </g>
   <polygon style="fill:#D80027;" points="184.154 55.652 256 15.738 256 0 256 0 155.826 55.652" />
+</g>
 </svg>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 512 341.3" style="enable-background:new 0 0 512 512;" xmlns="http://www.w3.org/2000/svg">
-  <rect style="fill:#0052B4;" width="512" height="341.326" />
-  <g transform="matrix(1, 0, 0, 1, 0, -85.336998)">
-    <rect y="85.337" style="fill:#D80027;" width="512" height="113.775" />
-    <rect y="312.888" style="fill:#D80027;" width="512" height="113.775" />
+<svg viewBox="0 0 512 384.0" style="enable-background:new 0 0 512 512;" xmlns="http://www.w3.org/2000/svg">
+  <rect style="fill:#0052B4;" width="512" height="384.0" />
+  <g >
+    <rect y="0" style="fill:#D80027;" width="512" height="128" />
+    <rect y="256" style="fill:#D80027;" width="512" height="128" />
   </g>
-  <circle style="fill:#F0F0F0;" cx="256" cy="170.663" r="47.49" />
+  <circle style="fill:#F0F0F0;" cx="256" cy="192" r="52" />
 </svg>
