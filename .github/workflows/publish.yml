@@ -48,3 +48,8 @@ jobs:
           AWS_S3_BUCKET: cdn.weglot.com
           SOURCE_DIR: ./build
           DEST_DIR: flags
+      - name: Cloudfront invalidations
+        uses: awact/cloudfront-action@master
+        env:
+          SOURCE_PATH: "/flags/*"
+          DISTRIBUTION_ID: E246SQQF56C0KG
