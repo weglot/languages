@@ -35,11 +35,6 @@ class Countries
             'flag_path' => 'flag-icon-css/4x3/ao.svg',
             'square_flag_path' => 'flag-icon-css/1x1/ao.svg',
         ],
-        'Anguilla' => [
-            'code' => 'al',
-            'flag_path' => 'flag-icon-css/4x3/al.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/al.svg',
-        ],
         'Antarctica' => [
             'code' => 'aq',
             'flag_path' => 'flag-icon-css/4x3/aq.svg',
@@ -610,6 +605,11 @@ class Countries
             'flag_path' => 'flag-icon-css/4x3/lr.svg',
             'square_flag_path' => 'flag-icon-css/1x1/lr.svg',
         ],
+        'Libya' => [
+            'code' => 'ly',
+            'flag_path' => 'flag-icon-css/4x3/ly.svg',
+            'square_flag_path' => 'flag-icon-css/1x1/ly.svg',
+        ],
         'Liechtenstein' => [
             'code' => 'li',
             'flag_path' => 'flag-icon-css/4x3/li.svg',
@@ -875,6 +875,11 @@ class Countries
             'flag_path' => 'flag-icon-css/4x3/qa.svg',
             'square_flag_path' => 'flag-icon-css/1x1/qa.svg',
         ],
+        'Quebec' => [
+            'code' => 'fr-ca',
+            'flag_path' => 'flags/4x3/fr-ca.svg',
+            'square_flag_path' => 'flags/1x1/fr-ca.svg',
+        ],
         'Reunion' => [
             'code' => 're',
             'flag_path' => 'flag-icon-css/4x3/re.svg',
@@ -1064,11 +1069,6 @@ class Countries
             'code' => 'cd',
             'flag_path' => 'flag-icon-css/4x3/cd.svg',
             'square_flag_path' => 'flag-icon-css/1x1/cd.svg',
-        ],
-        'Timor Leste' => [
-            'code' => 'tl',
-            'flag_path' => 'flag-icon-css/4x3/tl.svg',
-            'square_flag_path' => 'flag-icon-css/1x1/tl.svg',
         ],
         'Togo' => [
             'code' => 'tg',
