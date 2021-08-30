@@ -98,8 +98,8 @@ class Languages
             'english' => "Corsican",
             'local' => "Corsu",
             'rtl' => false,
-            'flag_path' => 'flags/4x3/co.svg',
-            'square_flag_path' => 'flags/1x1/co.svg',
+            'flag_path' => 'flags/4x3/fr-co.svg',
+            'square_flag_path' => 'flags/1x1/fr-co.svg',
         ],
         'cs' => [
             'code' => 'cs',
@@ -178,8 +178,8 @@ class Languages
             'english' => "Basque",
             'local' => "Euskara",
             'rtl' => false,
-            'flag_path' => 'flags/4x3/eu.svg',
-            'square_flag_path' => 'flags/1x1/eu.svg',
+            'flag_path' => 'flags/4x3/eus.svg',
+            'square_flag_path' => 'flags/1x1/eus.svg',
         ],
         'fa' => [
             'code' => 'fa',
@@ -208,7 +208,7 @@ class Languages
         'fl' => [
             'code' => 'fl',
             'english' => "Filipino",
-            'local' => "Pilipino",
+            'local' => "Filipino",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/ph.svg',
             'square_flag_path' => 'flag-icon-css/1x1/ph.svg',
@@ -687,7 +687,7 @@ class Languages
         ],
         'sr' => [
             'code' => 'sr',
-            'english' => "Serbian",
+            'english' => "Serbian (Cyrillic)",
             'local' => "Српски",
             'rtl' => false,
             'flag_path' => 'flag-icon-css/4x3/rs.svg',
@@ -882,8 +882,8 @@ class Languages
             'english' => "Hmong",
             'local' => "Hmoob",
             'rtl' => false,
-            'flag_path' => 'flags/4x3/hm.svg',
-            'square_flag_path' => 'flags/1x1/hm.svg',
+            'flag_path' => 'flags/4x3/hmn.svg',
+            'square_flag_path' => 'flags/1x1/hmn.svg',
         ],
         'cb' => [
             'code' => 'cb',
@@ -914,8 +914,8 @@ class Languages
             'english' => "Uyghur",
             'local' => "ئۇيغۇر",
             'rtl' => true,
-            'flag_path' => 'flags/4x3/ug.svg',
-            'square_flag_path' => 'flags/1x1/ug.svg',
+            'flag_path' => 'flags/4x3/uig.svg',
+            'square_flag_path' => 'flags/1x1/uig.svg',
         ],
         'fc' => [
             'code' => 'fc',
@@ -932,6 +932,14 @@ class Languages
             'rtl' => false,
             'flag_path' => 'flags/4x3/in.svg',
             'square_flag_path' => 'flags/1x1/in.svg',
+        ],
+        'sa' => [
+            'code' => 'sa',
+            'english' => "Serbian (Latin)",
+            'local' => "Srpski",
+            'rtl' => false,
+            'flag_path' => 'flags/4x3/rs.svg',
+            'square_flag_path' => 'flags/1x1/rs.svg',
         ]
     ];
 }

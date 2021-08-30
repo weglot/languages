@@ -30,28 +30,24 @@ if (!fs.existsSync(buildDir)) {
 
 for (const flag of flags) {
   const outputPath = `${buildDir}/${flag.name}`;
-
   if (!fs.existsSync(outputPath)) {
     fs.mkdirSync(outputPath);
   }
+  
+  const path = `${imagesDir}/${flag.inputSize}`;
+  const flagsData = fs.readdirSync(path).map((file) => ({
+    file,
+    path,
+  }));
 
-  ["flag-icon-css", "flags"]
-    .map((folder) => {
-      const path = `${imagesDir}/${folder}/${flag.inputSize}`;
-      return fs.readdirSync(path).map((file) => ({
-        file,
-        path,
-      }));
-    })
-    .flat()
-    .forEach(({ path, file }) => {
-      let svg = fs.readFileSync(`${path}/${file}`).toString();
+  flagsData.forEach(({ path, file }) => {
+    let svg = fs.readFileSync(`${path}/${file}`).toString();
 
-      if (flag.overlay) {
-        const regex = /(<svg(?:[^>]+)>)(?<svg>[\s\S]+)(<\/svg>)/i;
-        svg = svg.replace(regex, `$1${flag.overlay}$3`);
-      }
+    if (flag.overlay) {
+      const regex = /(<svg(?:[^>]+)>)(?<svg>[\s\S]+)(<\/svg>)/i;
+      svg = svg.replace(regex, `$1${flag.overlay}$3`);
+    }
 
-      fs.writeFileSync(`${outputPath}/${file}`, svg);
-    });
+    fs.writeFileSync(`${outputPath}/${file}`, svg);
+  });
 }
