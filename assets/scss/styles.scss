@@ -1,7 +1,7 @@
 @import "data/languages.json";
 @import "data/countries.json";
 
-$languages-repository-version: "1.55.1";
+$languages-repository-version: "1.56.0";
 
 .wg-flag {
   width: 22px;
@@ -15,7 +15,7 @@ $languages-repository-version: "1.55.1";
 
   @each $language in $languages {
     &.wg-flag-#{map-get($language, code)} {
-      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map-get($language, code)}.svg");
+      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map-get($language, country_flag_code)}.svg");
     }
   }
 
@@ -32,7 +32,7 @@ $languages-repository-version: "1.55.1";
 
     @each $language in $languages {
       &.wg-flag-#{map-get($language, code)} {
-        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map-get($language, code)}.svg");
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map-get($language, country_flag_code)}.svg");
       }
     }
 
