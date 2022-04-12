@@ -34,3 +34,10 @@ ESM
 ```js
 import { languages } from "@weglot/languages";
 ```
+
+### How to make changes
+After making a change on this repo, in order to make them available you need to do the followings:
+
+- Change `$languages-repository-version` in `assets/css/styles.scss` with expected new version
+- Run `npm run build`
+- Tag your commit with expected new version 

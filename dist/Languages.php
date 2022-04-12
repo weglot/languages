@@ -679,7 +679,7 @@ class Languages
         ],
         'tk' => [
             'code' => 'tk',
-            'english' => "Turkmène",
+            'english' => "Turkmen",
             'local' => "Türkmen",
             'rtl' => false,
         ],
