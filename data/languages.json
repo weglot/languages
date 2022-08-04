@@ -465,6 +465,14 @@
       "variant": "false"
     },
     {
+      "code": "lg",
+      "english_name": "Luganda",
+      "local_name": "Oluganda",
+      "rtl": "false",
+      "country_flag_code": "ug",
+      "variant": "false"
+    },
+    {
       "code": "mg",
       "english_name": "Malagasy",
       "local_name": "Malagasy",
