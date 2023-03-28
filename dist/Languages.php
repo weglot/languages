@@ -223,7 +223,7 @@ class Languages
         ],
         'ht' => [
             'code' => 'ht',
-            'english' => "Haitian",
+            'english' => "Haitian Creole",
             'local' => "Kreyòl ayisyen",
             'rtl' => false,
         ],
