@@ -943,6 +943,22 @@
       "rtl": "false",
       "country_flag_code": "rs",
       "variant": "false"
+    },
+    {
+      "code": "om",
+      "english_name": "Oromo",
+      "local_name": "Afaan Oromoo",
+      "rtl": "false",
+      "country_flag_code": "et",
+      "variant": "false"
+    },
+    {
+      "code": "iu",
+      "english_name": "Inuktitut",
+      "local_name": "ᐃᓄᒃᑎᑐᑦ",
+      "rtl": "false",
+      "country_flag_code": "ca",
+      "variant": "false"
     }
   ]
 }
