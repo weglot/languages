@@ -959,6 +959,30 @@
       "rtl": "false",
       "country_flag_code": "ca",
       "variant": "false"
+    },
+    {
+      "code": "ti",
+      "english_name": "Tigrinya",
+      "local_name": "ቲግሪንያ",
+      "rtl": "false",
+      "country_flag_code": "er",
+      "variant": "false"
+    },
+    {
+      "code": "bm",
+      "english_name": "Bambara",
+      "local_name": "Bamanankan",
+      "rtl": "false",
+      "country_flag_code": "ml",
+      "variant": "false"
+    },
+    {
+      "code": "tb",
+      "english_name": "Tibetan",
+      "local_name": "བོད་ཡིག",
+      "rtl": "false",
+      "country_flag_code": "cn",
+      "variant": "false"
     }
   ]
 }
