@@ -12,7 +12,8 @@
     "sass-compiler": "./node_modules/.bin/node-sass --importer node_modules/node-sass-json-importer/dist/cli.js --recursive ./assets/scss/styles.scss --output ./dist --output-style compressed --source-map true",
     "flags-downloads": "cp -a ./node_modules/flag-icon-css/flags/. ./images/flag-icon-css/",
     "populate-languages": "node bin/populateLanguages.js",
-    "build-svg": "node bin/buildSvg.js"
+    "build-svg": "node bin/buildSvg.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
     "flag-icon-css": "^3.5.0"
   },
   "devDependencies": {
+    "jest": "^29.6.1",
     "node-sass": "^9.0.0",
     "node-sass-json-importer": "^4.3.0"
   },
