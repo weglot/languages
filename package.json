@@ -23,7 +23,7 @@
     "flag-icon-css": "^3.5.0"
   },
   "devDependencies": {
-    "node-sass": "^5.0.0",
+    "node-sass": "^9.0.0",
     "node-sass-json-importer": "^4.3.0"
   },
   "version": "1.59.0"
