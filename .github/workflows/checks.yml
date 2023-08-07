@@ -14,7 +14,6 @@ concurrency:
 
 jobs:
     tests:
-        if: github.event.pull_request.draft == false
         runs-on: ubuntu-latest
         timeout-minutes: 10
         steps:
@@ -31,3 +30,23 @@ jobs:
 
             - name: Run tests
               run: npm test
+    build:
+        runs-on: ubuntu-latest
+        timeout-minutes: 10
+        steps:
+            - uses: actions/checkout@v3
+
+            - uses: actions/setup-node@v3
+              with:
+                  node-version: 20
+                  registry-url: https://npm.pkg.github.com/
+                  scope: "@weglot"
+
+            - name: Install dependencies
+              run: npm install
+
+            - name: Build dist folder
+              run: npm run build
+
+            - name: Check if the compilation is up to date
+              run: git add -N . && git diff --no-patch --exit-code
