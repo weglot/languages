@@ -983,6 +983,22 @@
       "rtl": "false",
       "country_flag_code": "cn",
       "variant": "false"
+    },
+    {
+      "code": "ak",
+      "english_name": "Akan",
+      "local_name": "Baoulé",
+      "rtl": "false",
+      "country_flag_code": "gh",
+      "variant": "false"
+    },
+    {
+      "code": "rw",
+      "english_name": "Kinyarwanda",
+      "local_name": "Kinyarwanda",
+      "rtl": "false",
+      "country_flag_code": "rw",
+      "variant": "false"
     }
   ]
 }
