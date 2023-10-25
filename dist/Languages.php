@@ -742,6 +742,18 @@ class Languages
             'english' => "Tibetan",
             'local' => "བོད་ཡིག",
             'rtl' => false,
+        ],
+        'ak' => [
+            'code' => 'ak',
+            'english' => "Akan",
+            'local' => "Baoulé",
+            'rtl' => false,
+        ],
+        'rw' => [
+            'code' => 'rw',
+            'english' => "Kinyarwanda",
+            'local' => "Kinyarwanda",
+            'rtl' => false,
         ]
     ];
 }
