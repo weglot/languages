@@ -595,9 +595,9 @@
     {
       "code": "ps",
       "english_name": "Pashto",
-      "local_name": "پښت",
-      "rtl": "false",
-      "country_flag_code": "af",
+      "local_name": "پښتو",
+      "rtl": "true",
+      "country_flag_code": "pk",
       "variant": "false"
     },
     {
