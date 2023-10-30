@@ -452,8 +452,8 @@ class Languages
         'ps' => [
             'code' => 'ps',
             'english' => "Pashto",
-            'local' => "پښت",
-            'rtl' => false,
+            'local' => "پښتو",
+            'rtl' => true,
         ],
         'pt' => [
             'code' => 'pt',
@@ -741,6 +741,18 @@ class Languages
             'code' => 'bo',
             'english' => "Tibetan",
             'local' => "བོད་ཡིག",
+            'rtl' => false,
+        ],
+        'ak' => [
+            'code' => 'ak',
+            'english' => "Akan",
+            'local' => "Baoulé",
+            'rtl' => false,
+        ],
+        'rw' => [
+            'code' => 'rw',
+            'english' => "Kinyarwanda",
+            'local' => "Kinyarwanda",
             'rtl' => false,
         ]
     ];
