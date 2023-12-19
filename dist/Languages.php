@@ -27,7 +27,7 @@ class Languages
             'local' => "العربية‏",
             'rtl' => true,
             'country' => 'sa',
-            'variant' => true,
+            'variant' => false,
         ],
         'az' => [
             'code' => 'az',
@@ -187,7 +187,7 @@ class Languages
             'local' => "فارسی",
             'rtl' => true,
             'country' => 'ir',
-            'variant' => true,
+            'variant' => false,
         ],
         'fi' => [
             'code' => 'fi',
@@ -275,7 +275,7 @@ class Languages
             'local' => "עברית",
             'rtl' => true,
             'country' => 'il',
-            'variant' => true,
+            'variant' => false,
         ],
         'hi' => [
             'code' => 'hi',
@@ -419,7 +419,7 @@ class Languages
             'local' => "كوردی",
             'rtl' => true,
             'country' => 'iq',
-            'variant' => true,
+            'variant' => false,
         ],
         'ky' => [
             'code' => 'ky',
@@ -603,7 +603,7 @@ class Languages
             'local' => "پښتو",
             'rtl' => true,
             'country' => 'pk',
-            'variant' => true,
+            'variant' => false,
         ],
         'pt' => [
             'code' => 'pt',
@@ -827,7 +827,7 @@ class Languages
             'local' => "اردو",
             'rtl' => true,
             'country' => 'pk',
-            'variant' => true,
+            'variant' => false,
         ],
         'uz' => [
             'code' => 'uz',
@@ -923,7 +923,7 @@ class Languages
             'local' => "ئۇيغۇر",
             'rtl' => true,
             'country' => 'uig',
-            'variant' => true,
+            'variant' => false,
         ],
         'fc' => [
             'code' => 'fc',
@@ -931,7 +931,7 @@ class Languages
             'local' => "Français (Canada)",
             'rtl' => false,
             'country' => 'ca',
-            'variant' => false,
+            'variant' => true,
         ],
         'as' => [
             'code' => 'as',
