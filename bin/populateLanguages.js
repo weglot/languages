@@ -17,7 +17,7 @@ languagesJson.languages.forEach((language, i, array) => {
     fs.appendFileSync(languagesFilePath,`            'local' => "${language.local_name.replace(/[""]/g, '')}",\n`);
     fs.appendFileSync(languagesFilePath,`            'rtl' => ${language.rtl},\n`);
     fs.appendFileSync(languagesFilePath,`            'country' => '${language.country_flag_code}',\n`);
-    fs.appendFileSync(languagesFilePath,`            'variant' => ${language.rtl},\n`);
+    fs.appendFileSync(languagesFilePath,`            'variant' => ${language.variant},\n`);
     fs.appendFileSync(languagesFilePath,`        ]${i !== array.length-1 ? "," : ''}\n`);
 });
 fs.appendFileSync(languagesFilePath, "    ];\n}");
