@@ -10,7 +10,7 @@ class Languages
             'english' => "Afrikaans",
             'local' => "Afrikaans",
             'rtl' => false,
-            'country' => za,
+            'country' => 'za',
             'variant' => false,
         ],
         'am' => [
@@ -18,7 +18,7 @@ class Languages
             'english' => "Amharic",
             'local' => "አማርኛ",
             'rtl' => false,
-            'country' => et,
+            'country' => 'et',
             'variant' => false,
         ],
         'ar' => [
@@ -26,7 +26,7 @@ class Languages
             'english' => "Arabic",
             'local' => "العربية‏",
             'rtl' => true,
-            'country' => sa,
+            'country' => 'sa',
             'variant' => true,
         ],
         'az' => [
@@ -34,7 +34,7 @@ class Languages
             'english' => "Azerbaijani",
             'local' => "Azərbaycan dili",
             'rtl' => false,
-            'country' => az,
+            'country' => 'az',
             'variant' => false,
         ],
         'ba' => [
@@ -42,7 +42,7 @@ class Languages
             'english' => "Bashkir",
             'local' => "башҡорт теле",
             'rtl' => false,
-            'country' => ru,
+            'country' => 'ru',
             'variant' => false,
         ],
         'be' => [
@@ -50,7 +50,7 @@ class Languages
             'english' => "Belarusian",
             'local' => "Беларуская",
             'rtl' => false,
-            'country' => by,
+            'country' => 'by',
             'variant' => false,
         ],
         'bg' => [
@@ -58,7 +58,7 @@ class Languages
             'english' => "Bulgarian",
             'local' => "Български",
             'rtl' => false,
-            'country' => bg,
+            'country' => 'bg',
             'variant' => false,
         ],
         'bn' => [
@@ -66,7 +66,7 @@ class Languages
             'english' => "Bengali",
             'local' => "বাংলা",
             'rtl' => false,
-            'country' => bd,
+            'country' => 'bd',
             'variant' => false,
         ],
         'br' => [
@@ -74,7 +74,7 @@ class Languages
             'english' => "Brazilian Portuguese",
             'local' => "Português Brasileiro",
             'rtl' => false,
-            'country' => br,
+            'country' => 'br',
             'variant' => false,
         ],
         'bs' => [
@@ -82,7 +82,7 @@ class Languages
             'english' => "Bosnian",
             'local' => "Bosanski",
             'rtl' => false,
-            'country' => ba,
+            'country' => 'ba',
             'variant' => false,
         ],
         'ca' => [
@@ -90,7 +90,7 @@ class Languages
             'english' => "Catalan",
             'local' => "Català",
             'rtl' => false,
-            'country' => es-ca,
+            'country' => 'es-ca',
             'variant' => false,
         ],
         'co' => [
@@ -98,7 +98,7 @@ class Languages
             'english' => "Corsican",
             'local' => "Corsu",
             'rtl' => false,
-            'country' => fr-co,
+            'country' => 'fr-co',
             'variant' => false,
         ],
         'cs' => [
@@ -106,7 +106,7 @@ class Languages
             'english' => "Czech",
             'local' => "Čeština",
             'rtl' => false,
-            'country' => cz,
+            'country' => 'cz',
             'variant' => false,
         ],
         'cy' => [
@@ -114,7 +114,7 @@ class Languages
             'english' => "Welsh",
             'local' => "Cymraeg",
             'rtl' => false,
-            'country' => gb-wls,
+            'country' => 'gb-wls',
             'variant' => false,
         ],
         'da' => [
@@ -122,7 +122,7 @@ class Languages
             'english' => "Danish",
             'local' => "Dansk",
             'rtl' => false,
-            'country' => dk,
+            'country' => 'dk',
             'variant' => false,
         ],
         'de' => [
@@ -130,7 +130,7 @@ class Languages
             'english' => "German",
             'local' => "Deutsch",
             'rtl' => false,
-            'country' => de,
+            'country' => 'de',
             'variant' => false,
         ],
         'el' => [
@@ -138,7 +138,7 @@ class Languages
             'english' => "Greek",
             'local' => "Ελληνικά",
             'rtl' => false,
-            'country' => gr,
+            'country' => 'gr',
             'variant' => false,
         ],
         'en' => [
@@ -146,7 +146,7 @@ class Languages
             'english' => "English",
             'local' => "English",
             'rtl' => false,
-            'country' => gb,
+            'country' => 'gb',
             'variant' => false,
         ],
         'eo' => [
@@ -154,7 +154,7 @@ class Languages
             'english' => "Esperanto",
             'local' => "Esperanto",
             'rtl' => false,
-            'country' => eo,
+            'country' => 'eo',
             'variant' => false,
         ],
         'es' => [
@@ -162,7 +162,7 @@ class Languages
             'english' => "Spanish",
             'local' => "Español",
             'rtl' => false,
-            'country' => es,
+            'country' => 'es',
             'variant' => false,
         ],
         'et' => [
@@ -170,7 +170,7 @@ class Languages
             'english' => "Estonian",
             'local' => "Eesti",
             'rtl' => false,
-            'country' => ee,
+            'country' => 'ee',
             'variant' => false,
         ],
         'eu' => [
@@ -178,7 +178,7 @@ class Languages
             'english' => "Basque",
             'local' => "Euskara",
             'rtl' => false,
-            'country' => eus,
+            'country' => 'eus',
             'variant' => false,
         ],
         'fa' => [
@@ -186,7 +186,7 @@ class Languages
             'english' => "Persian",
             'local' => "فارسی",
             'rtl' => true,
-            'country' => ir,
+            'country' => 'ir',
             'variant' => true,
         ],
         'fi' => [
@@ -194,7 +194,7 @@ class Languages
             'english' => "Finnish",
             'local' => "Suomi",
             'rtl' => false,
-            'country' => fi,
+            'country' => 'fi',
             'variant' => false,
         ],
         'fj' => [
@@ -202,7 +202,7 @@ class Languages
             'english' => "Fijian",
             'local' => "Vosa Vakaviti",
             'rtl' => false,
-            'country' => fj,
+            'country' => 'fj',
             'variant' => false,
         ],
         'fl' => [
@@ -210,7 +210,7 @@ class Languages
             'english' => "Filipino",
             'local' => "Filipino",
             'rtl' => false,
-            'country' => ph,
+            'country' => 'ph',
             'variant' => false,
         ],
         'fr' => [
@@ -218,7 +218,7 @@ class Languages
             'english' => "French",
             'local' => "Français",
             'rtl' => false,
-            'country' => fr,
+            'country' => 'fr',
             'variant' => false,
         ],
         'fy' => [
@@ -226,7 +226,7 @@ class Languages
             'english' => "Western Frisian",
             'local' => "frysk",
             'rtl' => false,
-            'country' => nl,
+            'country' => 'nl',
             'variant' => false,
         ],
         'ga' => [
@@ -234,7 +234,7 @@ class Languages
             'english' => "Irish",
             'local' => "Gaeilge",
             'rtl' => false,
-            'country' => ie,
+            'country' => 'ie',
             'variant' => false,
         ],
         'gd' => [
@@ -242,7 +242,7 @@ class Languages
             'english' => "Scottish Gaelic",
             'local' => "Gàidhlig",
             'rtl' => false,
-            'country' => gb-sct,
+            'country' => 'gb-sct',
             'variant' => false,
         ],
         'gl' => [
@@ -250,7 +250,7 @@ class Languages
             'english' => "Galician",
             'local' => "Galego",
             'rtl' => false,
-            'country' => es-ga,
+            'country' => 'es-ga',
             'variant' => false,
         ],
         'gu' => [
@@ -258,7 +258,7 @@ class Languages
             'english' => "Gujarati",
             'local' => "ગુજરાતી",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'ha' => [
@@ -266,7 +266,7 @@ class Languages
             'english' => "Hausa",
             'local' => "هَوُسَ",
             'rtl' => false,
-            'country' => ne,
+            'country' => 'ne',
             'variant' => false,
         ],
         'he' => [
@@ -274,7 +274,7 @@ class Languages
             'english' => "Hebrew",
             'local' => "עברית",
             'rtl' => true,
-            'country' => il,
+            'country' => 'il',
             'variant' => true,
         ],
         'hi' => [
@@ -282,7 +282,7 @@ class Languages
             'english' => "Hindi",
             'local' => "हिंदी",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'hr' => [
@@ -290,7 +290,7 @@ class Languages
             'english' => "Croatian",
             'local' => "Hrvatski",
             'rtl' => false,
-            'country' => hr,
+            'country' => 'hr',
             'variant' => false,
         ],
         'ht' => [
@@ -298,7 +298,7 @@ class Languages
             'english' => "Haitian Creole",
             'local' => "Kreyòl ayisyen",
             'rtl' => false,
-            'country' => ht,
+            'country' => 'ht',
             'variant' => false,
         ],
         'hu' => [
@@ -306,7 +306,7 @@ class Languages
             'english' => "Hungarian",
             'local' => "Magyar",
             'rtl' => false,
-            'country' => hu,
+            'country' => 'hu',
             'variant' => false,
         ],
         'hw' => [
@@ -314,7 +314,7 @@ class Languages
             'english' => "Hawaiian",
             'local' => "‘Ōlelo Hawai‘i",
             'rtl' => false,
-            'country' => hw,
+            'country' => 'hw',
             'variant' => false,
         ],
         'hy' => [
@@ -322,7 +322,7 @@ class Languages
             'english' => "Armenian",
             'local' => "հայերեն",
             'rtl' => false,
-            'country' => am,
+            'country' => 'am',
             'variant' => false,
         ],
         'id' => [
@@ -330,7 +330,7 @@ class Languages
             'english' => "Indonesian",
             'local' => "Bahasa Indonesia",
             'rtl' => false,
-            'country' => id,
+            'country' => 'id',
             'variant' => false,
         ],
         'ig' => [
@@ -338,7 +338,7 @@ class Languages
             'english' => "Igbo",
             'local' => "Igbo",
             'rtl' => false,
-            'country' => ne,
+            'country' => 'ne',
             'variant' => false,
         ],
         'is' => [
@@ -346,7 +346,7 @@ class Languages
             'english' => "Icelandic",
             'local' => "Íslenska",
             'rtl' => false,
-            'country' => is,
+            'country' => 'is',
             'variant' => false,
         ],
         'it' => [
@@ -354,7 +354,7 @@ class Languages
             'english' => "Italian",
             'local' => "Italiano",
             'rtl' => false,
-            'country' => it,
+            'country' => 'it',
             'variant' => false,
         ],
         'ja' => [
@@ -362,7 +362,7 @@ class Languages
             'english' => "Japanese",
             'local' => "日本語",
             'rtl' => false,
-            'country' => jp,
+            'country' => 'jp',
             'variant' => false,
         ],
         'jv' => [
@@ -370,7 +370,7 @@ class Languages
             'english' => "Javanese",
             'local' => "Wong Jawa",
             'rtl' => false,
-            'country' => id,
+            'country' => 'id',
             'variant' => false,
         ],
         'ka' => [
@@ -378,7 +378,7 @@ class Languages
             'english' => "Georgian",
             'local' => "ქართული",
             'rtl' => false,
-            'country' => ge,
+            'country' => 'ge',
             'variant' => false,
         ],
         'kk' => [
@@ -386,7 +386,7 @@ class Languages
             'english' => "Kazakh",
             'local' => "Қазақша",
             'rtl' => false,
-            'country' => kz,
+            'country' => 'kz',
             'variant' => false,
         ],
         'km' => [
@@ -394,7 +394,7 @@ class Languages
             'english' => "Central Khmer",
             'local' => "ភាសាខ្មែរ",
             'rtl' => false,
-            'country' => kh,
+            'country' => 'kh',
             'variant' => false,
         ],
         'kn' => [
@@ -402,7 +402,7 @@ class Languages
             'english' => "Kannada",
             'local' => "ಕನ್ನಡ",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'ko' => [
@@ -410,7 +410,7 @@ class Languages
             'english' => "Korean",
             'local' => "한국어",
             'rtl' => false,
-            'country' => kr,
+            'country' => 'kr',
             'variant' => false,
         ],
         'ku' => [
@@ -418,7 +418,7 @@ class Languages
             'english' => "Kurdish",
             'local' => "كوردی",
             'rtl' => true,
-            'country' => iq,
+            'country' => 'iq',
             'variant' => true,
         ],
         'ky' => [
@@ -426,7 +426,7 @@ class Languages
             'english' => "Kyrgyz",
             'local' => "кыргызча",
             'rtl' => false,
-            'country' => kg,
+            'country' => 'kg',
             'variant' => false,
         ],
         'la' => [
@@ -434,7 +434,7 @@ class Languages
             'english' => "Latin",
             'local' => "Latine",
             'rtl' => false,
-            'country' => it,
+            'country' => 'it',
             'variant' => false,
         ],
         'lb' => [
@@ -442,7 +442,7 @@ class Languages
             'english' => "Luxembourgish",
             'local' => "Lëtzebuergesch",
             'rtl' => false,
-            'country' => lu,
+            'country' => 'lu',
             'variant' => false,
         ],
         'lo' => [
@@ -450,7 +450,7 @@ class Languages
             'english' => "Lao",
             'local' => "ພາສາລາວ",
             'rtl' => false,
-            'country' => la,
+            'country' => 'la',
             'variant' => false,
         ],
         'lt' => [
@@ -458,7 +458,7 @@ class Languages
             'english' => "Lithuanian",
             'local' => "Lietuvių",
             'rtl' => false,
-            'country' => lt,
+            'country' => 'lt',
             'variant' => false,
         ],
         'lv' => [
@@ -466,7 +466,7 @@ class Languages
             'english' => "Latvian",
             'local' => "Latviešu",
             'rtl' => false,
-            'country' => lv,
+            'country' => 'lv',
             'variant' => false,
         ],
         'lg' => [
@@ -474,7 +474,7 @@ class Languages
             'english' => "Luganda",
             'local' => "Oluganda",
             'rtl' => false,
-            'country' => ug,
+            'country' => 'ug',
             'variant' => false,
         ],
         'mg' => [
@@ -482,7 +482,7 @@ class Languages
             'english' => "Malagasy",
             'local' => "Malagasy",
             'rtl' => false,
-            'country' => mg,
+            'country' => 'mg',
             'variant' => false,
         ],
         'mi' => [
@@ -490,7 +490,7 @@ class Languages
             'english' => "Māori",
             'local' => "te reo Māori",
             'rtl' => false,
-            'country' => nz,
+            'country' => 'nz',
             'variant' => false,
         ],
         'mk' => [
@@ -498,7 +498,7 @@ class Languages
             'english' => "Macedonian",
             'local' => "Македонски",
             'rtl' => false,
-            'country' => mk,
+            'country' => 'mk',
             'variant' => false,
         ],
         'ml' => [
@@ -506,7 +506,7 @@ class Languages
             'english' => "Malayalam",
             'local' => "മലയാളം",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'mn' => [
@@ -514,7 +514,7 @@ class Languages
             'english' => "Mongolian",
             'local' => "Монгол",
             'rtl' => false,
-            'country' => mn,
+            'country' => 'mn',
             'variant' => false,
         ],
         'mr' => [
@@ -522,7 +522,7 @@ class Languages
             'english' => "Marathi",
             'local' => "मराठी",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'ms' => [
@@ -530,7 +530,7 @@ class Languages
             'english' => "Malay",
             'local' => "Bahasa Melayu",
             'rtl' => false,
-            'country' => my,
+            'country' => 'my',
             'variant' => false,
         ],
         'mt' => [
@@ -538,7 +538,7 @@ class Languages
             'english' => "Maltese",
             'local' => "Malti",
             'rtl' => false,
-            'country' => mt,
+            'country' => 'mt',
             'variant' => false,
         ],
         'my' => [
@@ -546,7 +546,7 @@ class Languages
             'english' => "Burmese",
             'local' => "မျန္မာစာ",
             'rtl' => false,
-            'country' => mm,
+            'country' => 'mm',
             'variant' => false,
         ],
         'ne' => [
@@ -554,7 +554,7 @@ class Languages
             'english' => "Nepali",
             'local' => "नेपाली",
             'rtl' => false,
-            'country' => np,
+            'country' => 'np',
             'variant' => false,
         ],
         'nl' => [
@@ -562,7 +562,7 @@ class Languages
             'english' => "Dutch",
             'local' => "Nederlands",
             'rtl' => false,
-            'country' => nl,
+            'country' => 'nl',
             'variant' => false,
         ],
         'no' => [
@@ -570,7 +570,7 @@ class Languages
             'english' => "Norwegian",
             'local' => "Norsk",
             'rtl' => false,
-            'country' => no,
+            'country' => 'no',
             'variant' => false,
         ],
         'ny' => [
@@ -578,7 +578,7 @@ class Languages
             'english' => "Chichewa",
             'local' => "chiCheŵa",
             'rtl' => false,
-            'country' => mw,
+            'country' => 'mw',
             'variant' => false,
         ],
         'pa' => [
@@ -586,7 +586,7 @@ class Languages
             'english' => "Punjabi",
             'local' => "ਪੰਜਾਬੀ",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'pl' => [
@@ -594,7 +594,7 @@ class Languages
             'english' => "Polish",
             'local' => "Polski",
             'rtl' => false,
-            'country' => pl,
+            'country' => 'pl',
             'variant' => false,
         ],
         'ps' => [
@@ -602,7 +602,7 @@ class Languages
             'english' => "Pashto",
             'local' => "پښتو",
             'rtl' => true,
-            'country' => pk,
+            'country' => 'pk',
             'variant' => true,
         ],
         'pt' => [
@@ -610,7 +610,7 @@ class Languages
             'english' => "Portuguese",
             'local' => "Português",
             'rtl' => false,
-            'country' => pt,
+            'country' => 'pt',
             'variant' => false,
         ],
         'ro' => [
@@ -618,7 +618,7 @@ class Languages
             'english' => "Romanian",
             'local' => "Română",
             'rtl' => false,
-            'country' => ro,
+            'country' => 'ro',
             'variant' => false,
         ],
         'ru' => [
@@ -626,7 +626,7 @@ class Languages
             'english' => "Russian",
             'local' => "Русский",
             'rtl' => false,
-            'country' => ru,
+            'country' => 'ru',
             'variant' => false,
         ],
         'sd' => [
@@ -634,7 +634,7 @@ class Languages
             'english' => "Sindhi",
             'local' => "سنڌي، سندھی, सिन्धी",
             'rtl' => false,
-            'country' => pk,
+            'country' => 'pk',
             'variant' => false,
         ],
         'si' => [
@@ -642,7 +642,7 @@ class Languages
             'english' => "Sinhalese",
             'local' => "සිංහල",
             'rtl' => false,
-            'country' => lk,
+            'country' => 'lk',
             'variant' => false,
         ],
         'sk' => [
@@ -650,7 +650,7 @@ class Languages
             'english' => "Slovak",
             'local' => "Slovenčina",
             'rtl' => false,
-            'country' => sk,
+            'country' => 'sk',
             'variant' => false,
         ],
         'sl' => [
@@ -658,7 +658,7 @@ class Languages
             'english' => "Slovenian",
             'local' => "Slovenščina",
             'rtl' => false,
-            'country' => si,
+            'country' => 'si',
             'variant' => false,
         ],
         'sm' => [
@@ -666,7 +666,7 @@ class Languages
             'english' => "Samoan",
             'local' => "gagana fa'a Samoa",
             'rtl' => false,
-            'country' => ws,
+            'country' => 'ws',
             'variant' => false,
         ],
         'sn' => [
@@ -674,7 +674,7 @@ class Languages
             'english' => "Shona",
             'local' => "chiShona",
             'rtl' => false,
-            'country' => zw,
+            'country' => 'zw',
             'variant' => false,
         ],
         'so' => [
@@ -682,7 +682,7 @@ class Languages
             'english' => "Somali",
             'local' => "Soomaaliga",
             'rtl' => false,
-            'country' => so,
+            'country' => 'so',
             'variant' => false,
         ],
         'sq' => [
@@ -690,7 +690,7 @@ class Languages
             'english' => "Albanian",
             'local' => "Shqip",
             'rtl' => false,
-            'country' => al,
+            'country' => 'al',
             'variant' => false,
         ],
         'sr' => [
@@ -698,7 +698,7 @@ class Languages
             'english' => "Serbian (Cyrillic)",
             'local' => "Српски",
             'rtl' => false,
-            'country' => rs,
+            'country' => 'rs',
             'variant' => false,
         ],
         'st' => [
@@ -706,7 +706,7 @@ class Languages
             'english' => "Southern Sotho",
             'local' => "seSotho",
             'rtl' => false,
-            'country' => ng,
+            'country' => 'ng',
             'variant' => false,
         ],
         'su' => [
@@ -714,7 +714,7 @@ class Languages
             'english' => "Sundanese",
             'local' => "Sundanese",
             'rtl' => false,
-            'country' => sd,
+            'country' => 'sd',
             'variant' => false,
         ],
         'sv' => [
@@ -722,7 +722,7 @@ class Languages
             'english' => "Swedish",
             'local' => "Svenska",
             'rtl' => false,
-            'country' => se,
+            'country' => 'se',
             'variant' => false,
         ],
         'sw' => [
@@ -730,7 +730,7 @@ class Languages
             'english' => "Swahili",
             'local' => "Kiswahili",
             'rtl' => false,
-            'country' => ke,
+            'country' => 'ke',
             'variant' => false,
         ],
         'ta' => [
@@ -738,7 +738,7 @@ class Languages
             'english' => "Tamil",
             'local' => "தமிழ்",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'te' => [
@@ -746,7 +746,7 @@ class Languages
             'english' => "Telugu",
             'local' => "తెలుగు",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'tg' => [
@@ -754,7 +754,7 @@ class Languages
             'english' => "Tajik",
             'local' => "Тоҷикӣ",
             'rtl' => false,
-            'country' => tj,
+            'country' => 'tj',
             'variant' => false,
         ],
         'th' => [
@@ -762,7 +762,7 @@ class Languages
             'english' => "Thai",
             'local' => "ภาษาไทย",
             'rtl' => false,
-            'country' => th,
+            'country' => 'th',
             'variant' => false,
         ],
         'tl' => [
@@ -770,7 +770,7 @@ class Languages
             'english' => "Tagalog",
             'local' => "Tagalog",
             'rtl' => false,
-            'country' => ph,
+            'country' => 'ph',
             'variant' => false,
         ],
         'to' => [
@@ -778,7 +778,7 @@ class Languages
             'english' => "Tongan",
             'local' => "faka-Tonga",
             'rtl' => false,
-            'country' => to,
+            'country' => 'to',
             'variant' => false,
         ],
         'tr' => [
@@ -786,7 +786,7 @@ class Languages
             'english' => "Turkish",
             'local' => "Türkçe",
             'rtl' => false,
-            'country' => tr,
+            'country' => 'tr',
             'variant' => false,
         ],
         'tt' => [
@@ -794,7 +794,7 @@ class Languages
             'english' => "Tatar",
             'local' => "Tatar",
             'rtl' => false,
-            'country' => tr,
+            'country' => 'tr',
             'variant' => false,
         ],
         'tw' => [
@@ -802,7 +802,7 @@ class Languages
             'english' => "Traditional Chinese",
             'local' => "中文 (繁體)",
             'rtl' => false,
-            'country' => tw,
+            'country' => 'tw',
             'variant' => false,
         ],
         'ty' => [
@@ -810,7 +810,7 @@ class Languages
             'english' => "Tahitian",
             'local' => "te reo Tahiti, te reo Māʼohi",
             'rtl' => false,
-            'country' => pf,
+            'country' => 'pf',
             'variant' => false,
         ],
         'uk' => [
@@ -818,7 +818,7 @@ class Languages
             'english' => "Ukrainian",
             'local' => "Українська",
             'rtl' => false,
-            'country' => ua,
+            'country' => 'ua',
             'variant' => false,
         ],
         'ur' => [
@@ -826,7 +826,7 @@ class Languages
             'english' => "Urdu",
             'local' => "اردو",
             'rtl' => true,
-            'country' => pk,
+            'country' => 'pk',
             'variant' => true,
         ],
         'uz' => [
@@ -834,7 +834,7 @@ class Languages
             'english' => "Uzbek",
             'local' => "O'zbek",
             'rtl' => false,
-            'country' => uz,
+            'country' => 'uz',
             'variant' => false,
         ],
         'vi' => [
@@ -842,7 +842,7 @@ class Languages
             'english' => "Vietnamese",
             'local' => "Tiếng Việt",
             'rtl' => false,
-            'country' => vn,
+            'country' => 'vn',
             'variant' => false,
         ],
         'xh' => [
@@ -850,7 +850,7 @@ class Languages
             'english' => "Xhosa",
             'local' => "isiXhosa",
             'rtl' => false,
-            'country' => za,
+            'country' => 'za',
             'variant' => false,
         ],
         'yi' => [
@@ -858,7 +858,7 @@ class Languages
             'english' => "Yiddish",
             'local' => "ייִדיש",
             'rtl' => false,
-            'country' => il,
+            'country' => 'il',
             'variant' => false,
         ],
         'yo' => [
@@ -866,7 +866,7 @@ class Languages
             'english' => "Yoruba",
             'local' => "Yorùbá",
             'rtl' => false,
-            'country' => ng,
+            'country' => 'ng',
             'variant' => false,
         ],
         'zh' => [
@@ -874,7 +874,7 @@ class Languages
             'english' => "Simplified Chinese",
             'local' => "中文 (简体)",
             'rtl' => false,
-            'country' => cn,
+            'country' => 'cn',
             'variant' => false,
         ],
         'zu' => [
@@ -882,7 +882,7 @@ class Languages
             'english' => "Zulu",
             'local' => "isiZulu",
             'rtl' => false,
-            'country' => za,
+            'country' => 'za',
             'variant' => false,
         ],
         'hm' => [
@@ -890,7 +890,7 @@ class Languages
             'english' => "Hmong",
             'local' => "Hmoob",
             'rtl' => false,
-            'country' => hmn,
+            'country' => 'hmn',
             'variant' => false,
         ],
         'cb' => [
@@ -898,7 +898,7 @@ class Languages
             'english' => "Cebuano",
             'local' => "Sugbuanon",
             'rtl' => false,
-            'country' => ph,
+            'country' => 'ph',
             'variant' => false,
         ],
         'or' => [
@@ -906,7 +906,7 @@ class Languages
             'english' => "Odia",
             'local' => "ଓଡ଼ିଆ",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'tk' => [
@@ -914,7 +914,7 @@ class Languages
             'english' => "Turkmen",
             'local' => "Türkmen",
             'rtl' => false,
-            'country' => tr,
+            'country' => 'tr',
             'variant' => false,
         ],
         'ug' => [
@@ -922,7 +922,7 @@ class Languages
             'english' => "Uyghur",
             'local' => "ئۇيغۇر",
             'rtl' => true,
-            'country' => uig,
+            'country' => 'uig',
             'variant' => true,
         ],
         'fc' => [
@@ -930,7 +930,7 @@ class Languages
             'english' => "French (Canada)",
             'local' => "Français (Canada)",
             'rtl' => false,
-            'country' => ca,
+            'country' => 'ca',
             'variant' => false,
         ],
         'as' => [
@@ -938,7 +938,7 @@ class Languages
             'english' => "Assamese",
             'local' => "অসমীয়া",
             'rtl' => false,
-            'country' => in,
+            'country' => 'in',
             'variant' => false,
         ],
         'sa' => [
@@ -946,7 +946,7 @@ class Languages
             'english' => "Serbian (Latin)",
             'local' => "Srpski",
             'rtl' => false,
-            'country' => rs,
+            'country' => 'rs',
             'variant' => false,
         ],
         'om' => [
@@ -954,7 +954,7 @@ class Languages
             'english' => "Oromo",
             'local' => "Afaan Oromoo",
             'rtl' => false,
-            'country' => et,
+            'country' => 'et',
             'variant' => false,
         ],
         'iu' => [
@@ -962,7 +962,7 @@ class Languages
             'english' => "Inuktitut",
             'local' => "ᐃᓄᒃᑎᑐᑦ",
             'rtl' => false,
-            'country' => ca,
+            'country' => 'ca',
             'variant' => false,
         ],
         'ti' => [
@@ -970,7 +970,7 @@ class Languages
             'english' => "Tigrinya",
             'local' => "ቲግሪንያ",
             'rtl' => false,
-            'country' => er,
+            'country' => 'er',
             'variant' => false,
         ],
         'bm' => [
@@ -978,7 +978,7 @@ class Languages
             'english' => "Bambara",
             'local' => "Bamanankan",
             'rtl' => false,
-            'country' => ml,
+            'country' => 'ml',
             'variant' => false,
         ],
         'bo' => [
@@ -986,7 +986,7 @@ class Languages
             'english' => "Tibetan",
             'local' => "བོད་ཡིག",
             'rtl' => false,
-            'country' => cn,
+            'country' => 'cn',
             'variant' => false,
         ],
         'ak' => [
@@ -994,7 +994,7 @@ class Languages
             'english' => "Akan",
             'local' => "Baoulé",
             'rtl' => false,
-            'country' => gh,
+            'country' => 'gh',
             'variant' => false,
         ],
         'rw' => [
@@ -1002,7 +1002,7 @@ class Languages
             'english' => "Kinyarwanda",
             'local' => "Kinyarwanda",
             'rtl' => false,
-            'country' => rw,
+            'country' => 'rw',
             'variant' => false,
         ]
     ];
