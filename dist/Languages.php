@@ -4,7 +4,7 @@ namespace Languages;
 
 class Languages
 {
-    public static $defaultLanguages = [
+    const DATA = [
         'af' => [
             'code' => 'af',
             'english' => "Afrikaans",
