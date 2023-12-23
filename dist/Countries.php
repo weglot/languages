@@ -4,7 +4,7 @@ namespace Countries;
 
 class Countries
 {
-    public static $countries = [
+    const DATA = [
         'af' => [
             'code' => 'af',
             'name' => 'Afghanistan',
