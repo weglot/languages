@@ -1,0 +1,6 @@
+{
+  "name": "weglot/languages",
+  "description": "available languages on Weglot",
+  "type": "library",
+  "minimum-stability": "stable"
+}
