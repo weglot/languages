@@ -1,6 +1,7 @@
 {
   "name": "weglot/languages",
-  "description": "available languages on Weglot",
+  "description": "A comprehensive dataset containing language codes and names compatible with Weglot.",
   "type": "library",
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "license": "proprietary"
 }
