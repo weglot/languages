@@ -1,2 +1,5 @@
 .* export-ignore
-tests/
+.github export-ignore
+assets export-ignore
+bin export-ignore
+tests export-ignore
