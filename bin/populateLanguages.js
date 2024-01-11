@@ -7,7 +7,7 @@ const languagesJson = JSON.parse(fs.readFileSync("data/languages.json"));
 fs.openSync(languagesFilePath, 'w', 0o777);
 fs.appendFileSync(
     languagesFilePath,
-    "<?php\n\nnamespace Languages;\n\nclass Languages\n{\n    const DATA = [\n"
+    "<?php\n\nnamespace WeglotLanguages;\n\nclass Languages\n{\n    const DATA = [\n"
 );
 
 languagesJson.languages.forEach((language, i, array) => {
@@ -29,7 +29,7 @@ const CountriesJson = JSON.parse(fs.readFileSync("data/countries.json"));
 fs.openSync(countriesFilePath, 'w', 0o777);
 fs.appendFileSync(
     countriesFilePath,
-    "<?php\n\nnamespace Countries;\n\nclass Countries\n{\n    const DATA = [\n"
+    "<?php\n\nnamespace WeglotLanguages;\n\nclass Countries\n{\n    const DATA = [\n"
 );
 
 CountriesJson.countries.forEach((country, i, array) => {
