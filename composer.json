@@ -3,5 +3,10 @@
   "description": "A comprehensive dataset containing language codes and names compatible with Weglot.",
   "type": "library",
   "minimum-stability": "stable",
-  "license": "proprietary"
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "WeglotLanguages\\": "dist/"
+    }
+  }
 }
