@@ -1,6 +1,6 @@
 <?php
 
-namespace Languages;
+namespace WeglotLanguages;
 
 class Languages
 {

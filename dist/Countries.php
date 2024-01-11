@@ -1,6 +1,6 @@
 <?php
 
-namespace Countries;
+namespace WeglotLanguages;
 
 class Countries
 {
