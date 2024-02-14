@@ -2,8 +2,15 @@
 
 namespace WeglotLanguages;
 
+/**
+ * @phpstan-type Country = array{
+ *     code: string,
+ *     name: string,
+ * }
+ */
 class Countries
 {
+    /** @phpstan-var array<string, Country> */
     const DATA = [
         'af' => [
             'code' => 'af',

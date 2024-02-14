@@ -7,7 +7,24 @@ const languagesJson = JSON.parse(fs.readFileSync("data/languages.json"));
 fs.openSync(languagesFilePath, 'w', 0o777);
 fs.appendFileSync(
     languagesFilePath,
-    "<?php\n\nnamespace WeglotLanguages;\n\nclass Languages\n{\n    const DATA = [\n"
+    "<?php\n" +
+    "\n" +
+    "namespace WeglotLanguages;\n" +
+    "\n" +
+    "/**\n" +
+    " * @phpstan-type Language = array{\n" +
+    " *     code: string,\n" +
+    " *     english: string,\n" +
+    " *     local: string,\n" +
+    " *     rtl: bool,\n" +
+    " *     country: string,\n" +
+    " *     variant: bool,\n" +
+    " * }\n" +
+    " */\n" +
+    "class Languages\n" +
+    "{\n" +
+    "    /** @phpstan-var array<string, Language> */\n" +
+    "    const DATA = [\n"
 );
 
 languagesJson.languages.forEach((language, i, array) => {
@@ -29,7 +46,20 @@ const CountriesJson = JSON.parse(fs.readFileSync("data/countries.json"));
 fs.openSync(countriesFilePath, 'w', 0o777);
 fs.appendFileSync(
     countriesFilePath,
-    "<?php\n\nnamespace WeglotLanguages;\n\nclass Countries\n{\n    const DATA = [\n"
+    "<?php\n" +
+    "\n" +
+    "namespace WeglotLanguages;\n" +
+    "\n" +
+    "/**\n" +
+    " * @phpstan-type Country = array{\n" +
+    " *     code: string,\n" +
+    " *     name: string,\n" +
+    " * }\n" +
+    " */\n" +
+    "class Countries\n" +
+    "{\n" +
+    "    /** @phpstan-var array<string, Country> */\n" +
+    "    const DATA = [\n"
 );
 
 CountriesJson.countries.forEach((country, i, array) => {
