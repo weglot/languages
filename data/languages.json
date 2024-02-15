@@ -999,6 +999,22 @@
       "rtl": "false",
       "country_flag_code": "rw",
       "variant": "false"
+    },
+    {
+      "code": "kb",
+      "english_name": "Kurdish (Sorani)",
+      "local_name": "سۆرانی",
+      "rtl": "true",
+      "country_flag_code": "iq",
+      "variant": "false"
+    },
+    {
+      "code": "fo",
+      "english_name": "Faroese",
+      "local_name": "Føroyskt",
+      "rtl": "false",
+      "country_flag_code": "fo",
+      "variant": "false"
     }
   ]
 }
