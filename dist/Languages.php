@@ -1015,6 +1015,22 @@ class Languages
             'rtl' => false,
             'country' => 'rw',
             'variant' => false,
+        ],
+        'kb' => [
+            'code' => 'kb',
+            'english' => "Kurdish (Sorani)",
+            'local' => "سۆرانی",
+            'rtl' => true,
+            'country' => 'iq',
+            'variant' => false,
+        ],
+        'fo' => [
+            'code' => 'fo',
+            'english' => "Faroese",
+            'local' => "Føroyskt",
+            'rtl' => false,
+            'country' => 'fo',
+            'variant' => false,
         ]
     ];
 }
