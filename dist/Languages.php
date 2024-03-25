@@ -1031,6 +1031,14 @@ class Languages
             'rtl' => false,
             'country' => 'fo',
             'variant' => false,
+        ],
+        'il' => [
+            'code' => 'il',
+            'english' => "Ilocano",
+            'local' => "Ilokano",
+            'rtl' => false,
+            'country' => 'ph',
+            'variant' => false,
         ]
     ];
 }
