@@ -25,6 +25,5 @@
     "jest": "^29.6.1",
     "node-sass": "^9.0.0",
     "node-sass-json-importer": "^4.3.0"
-  },
-  "version": "1.65.1"
+  }
 }
