@@ -1015,6 +1015,14 @@
       "rtl": "false",
       "country_flag_code": "fo",
       "variant": "false"
+    },
+    {
+      "code": "il",
+      "english_name": "Ilocano",
+      "local_name": "Ilokano",
+      "rtl": "false",
+      "country_flag_code": "ph",
+      "variant": "false"
     }
   ]
 }
