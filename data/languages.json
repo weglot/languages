@@ -1081,14 +1081,6 @@
       "variant": "false"
     },
     {
-      "code": "ti",
-      "english_name": "Tigrinya",
-      "local_name": "ትግርኛ",
-      "rtl": "false",
-      "country_flag_code": "er",
-      "variant": "false"
-    },
-    {
       "code": "ts",
       "english_name": "Tsonga",
       "local_name": "Xitsonga",
