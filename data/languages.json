@@ -1095,14 +1095,6 @@
       "rtl": "false",
       "country_flag_code": "za",
       "variant": "false"
-    },
-    {
-      "code": "ts",
-      "english_name": "Tsonga",
-      "local_name": "Xitsonga",
-      "rtl": "false",
-      "country_flag_code": "za",
-      "variant": "false"
     }
   ]
 }
