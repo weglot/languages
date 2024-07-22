@@ -15,10 +15,16 @@ test('Data structure is valid', () => {
     });
 });
 
+
 test('There is no duplicate code', () => {
     const codes = languages.map((language) => language.code);
     const uniqueCodes = [...new Set(codes)];
 
+    // Find duplicated language codes
+    const duplicatedCodes = codes.filter((code, index) => codes.indexOf(code) !== index);
+    if (duplicatedCodes.length > 0) {
+        console.log('Duplicated language code(s):', duplicatedCodes);
+    }
     expect(codes.length).toBe(uniqueCodes.length);
 });
 
