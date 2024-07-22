@@ -21,6 +21,19 @@ test('There is no duplicate code', () => {
 
     expect(codes.length).toBe(uniqueCodes.length);
 });
+test('There is no duplicate code', () => {
+    const codes = languages.map((language) => language.code);
+    const uniqueCodes = [...new Set(codes)];
+
+    // Find duplicated language codes
+    const duplicatedCodes = codes.filter((code, index) => codes.indexOf(code) !== index);
+
+    expect(codes.length).toBe(uniqueCodes.length);
+
+    if (duplicatedCodes.length > 0) {
+        console.log('Duplicated language code(s):', duplicatedCodes);
+    }
+});
 
 test('All flag codes exist', () => {
     const countryFlagCodes = languages.map((language) => language.country_flag_code);
