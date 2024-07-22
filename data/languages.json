@@ -1073,14 +1073,6 @@
       "variant": "false"
     },
     {
-      "code": "sa",
-      "english_name": "Sanskrit",
-      "local_name": "संस्कृतम्",
-      "rtl": "false",
-      "country_flag_code": "in",
-      "variant": "false"
-    },
-    {
       "code": "ts",
       "english_name": "Tsonga",
       "local_name": "Xitsonga",
