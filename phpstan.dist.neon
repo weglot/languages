@@ -1,0 +1,13 @@
+includes:
+    - vendor/phpstan/phpstan/conf/bleedingEdge.neon
+
+parameters:
+    level: 9
+    paths:
+        - dist/
+    exceptions:
+        check:
+            missingCheckedExceptionInThrows: true
+            tooWideThrowType: true
+        reportUncheckedExceptionDeadCatch: false
+        implicitThrows: false
