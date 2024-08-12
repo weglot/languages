@@ -30,3 +30,13 @@ jobs:
             - run: npm run build
 
             - run: npm test
+
+            - uses: shivammathur/setup-php@v2
+              with:
+                  php-version: 8.3
+                  tools: composer:v2
+                  ini-file: development
+
+            - run: composer install
+
+            - run: composer phpstan
