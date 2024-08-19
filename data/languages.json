@@ -1079,6 +1079,14 @@
       "rtl": "false",
       "country_flag_code": "za",
       "variant": "false"
+    },
+    {
+      "code": "oc",
+      "english_name": "Occitan",
+      "local_name": "Occitan",
+      "rtl": "false",
+      "country_flag_code": "fr",
+      "variant": "false"
     }
   ]
 }
