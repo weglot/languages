@@ -25,6 +25,11 @@ $languages-repository-version: "1.57.2";
     }
   }
 
+  &.wg-flag-small {
+      width: 17px;
+      height: 12px;
+  }
+
   &-square {
     @extend .wg-flag;
 
