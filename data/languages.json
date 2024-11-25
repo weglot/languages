@@ -1034,7 +1034,7 @@
     },
     {
       "code": "dv",
-      "english_name": "Dhivehi",
+      "english_name": "Divehi",
       "local_name": "ދިވެހި",
       "rtl": "true",
       "country_flag_code": "mv",
@@ -1086,6 +1086,38 @@
       "local_name": "Occitan",
       "rtl": "false",
       "country_flag_code": "fr",
+      "variant": "false"
+    },
+    {
+      "code": "nb",
+      "english_name": "Norwegian Bokmål",
+      "local_name": "Norsk Bokmål",
+      "rtl": "false",
+      "country_flag_code": "no",
+      "variant": "false"
+    },
+    {
+      "code": "yue",
+      "english_name": "Cantonese",
+      "local_name": "粵語",
+      "rtl": "false",
+      "country_flag_code": "hk",
+      "variant": "false"
+    },
+    {
+      "code": "mh",
+      "english_name": "Marshallese",
+      "local_name": "Kajin M̧ajeļ",
+      "rtl": "false",
+      "country_flag_code": "mh",
+      "variant": "false"
+    },
+    {
+      "code": "chk",
+      "english_name": "Chuukese",
+      "local_name": "Chuuk",
+      "rtl": "false",
+      "country_flag_code": "fm",
       "variant": "false"
     }
   ]
