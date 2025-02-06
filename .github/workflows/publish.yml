@@ -15,9 +15,9 @@ jobs:
         runs-on: ubuntu-latest
         timeout-minutes: 10
         steps:
-            - uses: actions/checkout@v3
+            - uses: actions/checkout@v4
 
-            - uses: actions/setup-node@v3
+            - uses: actions/setup-node@v4
               with:
                   node-version-file: ".nvmrc"
                   registry-url: https://npm.pkg.github.com/
@@ -32,23 +32,16 @@ jobs:
                   NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
             - name: Upload built flags on staging
-              uses: jakejarvis/s3-sync-action@master
-              with:
-                  args: --cache-control 'max-age=1800' --delete --acl public-read --content-type 'image/svg+xml; charset=utf-8'
-              env:
-                  AWS_S3_BUCKET: cdn-staging.weglot.com
-                  SOURCE_DIR: ./build
-                  DEST_DIR: flags
+              run: |
+                  aws s3 sync ./build cdn-staging.weglot.com/flags \
+                  --cache-control 'max-age=1800' --delete --acl public-read \
+                  --content-type 'image/svg+xml; charset=utf-8'
 
-            - name: Upload built flags on production
-              uses: jakejarvis/s3-sync-action@master
-              with:
-                  # max age 2592000 (1 month) in production
-                  args: --cache-control 'max-age=2592000' --delete --acl public-read --content-type 'image/svg+xml; charset=utf-8'
-              env:
-                  AWS_S3_BUCKET: cdn.weglot.com
-                  SOURCE_DIR: ./build
-                  DEST_DIR: flags
+            - name: Upload built flags on staging
+              run: |
+                  aws s3 sync ./build cdn.weglot.com/flags \
+                  --cache-control 'max-age=2592000' --delete --acl public-read \
+                  --content-type 'image/svg+xml; charset=utf-8'
 
             - name: Cloudfront invalidations
               uses: awact/cloudfront-action@master
