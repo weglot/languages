@@ -65,7 +65,7 @@
       "variant": "false"
     },
     {
-      "code": "br",
+      "code": "pt-br",
       "english_name": "Brazilian Portuguese",
       "local_name": "Português Brasileiro",
       "rtl": "false",
@@ -793,7 +793,7 @@
       "variant": "false"
     },
     {
-      "code": "tw",
+      "code": "zh-tw",
       "english_name": "Traditional Chinese",
       "local_name": "中文 (繁體)",
       "rtl": "false",
@@ -881,7 +881,7 @@
       "variant": "false"
     },
     {
-      "code": "hm",
+      "code": "hmn",
       "english_name": "Hmong",
       "local_name": "Hmoob",
       "rtl": "false",
@@ -921,7 +921,7 @@
       "variant": "false"
     },
     {
-      "code": "fc",
+      "code": "fr-ca",
       "english_name": "French (Canada)",
       "local_name": "Français (Canada)",
       "rtl": "false",
@@ -937,7 +937,7 @@
       "variant": "false"
     },
     {
-      "code": "sa",
+      "code": "sr-latn",
       "english_name": "Serbian (Latin)",
       "local_name": "Srpski",
       "rtl": "false",
