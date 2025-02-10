@@ -33,13 +33,13 @@ jobs:
 
             - name: Upload built flags on staging
               run: |
-                  aws s3 sync ./build cdn-staging.weglot.com/flags \
+                  aws s3 sync ./build s3://cdn-staging.weglot.com/flags \
                   --cache-control 'max-age=1800' --delete --acl public-read \
                   --content-type 'image/svg+xml; charset=utf-8'
 
-            - name: Upload built flags on staging
+            - name: Upload built flags on production
               run: |
-                  aws s3 sync ./build cdn.weglot.com/flags \
+                  aws s3 sync ./build s3://cdn.weglot.com/flags \
                   --cache-control 'max-age=2592000' --delete --acl public-read \
                   --content-type 'image/svg+xml; charset=utf-8'
 
