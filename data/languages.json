@@ -793,7 +793,7 @@
       "variant": "false"
     },
     {
-      "code": "tw",
+      "code": "zh-tw",
       "english_name": "Traditional Chinese",
       "local_name": "中文 (繁體)",
       "rtl": "false",
@@ -921,7 +921,7 @@
       "variant": "false"
     },
     {
-      "code": "fc",
+      "code": "fr-ca",
       "english_name": "French (Canada)",
       "local_name": "Français (Canada)",
       "rtl": "false",
