@@ -921,12 +921,12 @@
       "variant": "false"
     },
     {
-      "code": "fc",
+      "code": "fr-ca",
       "english_name": "French (Canada)",
       "local_name": "Français (Canada)",
       "rtl": "false",
       "country_flag_code": "ca",
-      "variant": "true"
+      "variant": "false"
     },
     {
       "code": "as",
