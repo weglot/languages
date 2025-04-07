@@ -1,4 +1,5 @@
-@import "data/languages.json";
+@use "sass:map";
+@use "data/languages" as *;
 
 $languages-repository-version: "1.78.1";
 
@@ -13,14 +14,14 @@ $languages-repository-version: "1.78.1";
   background-image: linear-gradient(#b0b3b8, #b0b3b8);
 
   @each $language in $languages {
-    &.wg-flag-#{map-get($language, code)} {
-      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map-get($language, country_flag_code)}.svg");
+    &.wg-flag-#{map.get($language, code)} {
+      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map.get($language, country_flag_code)}.svg");
     }
   }
 
   @each $language in $languages {
-    &.wg-flag-country-#{map-get($language, country_flag_code)} {
-      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map-get($language, country_flag_code)}.svg");
+    &.wg-flag-country-#{map.get($language, country_flag_code)} {
+      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map.get($language, country_flag_code)}.svg");
     }
   }
 
@@ -35,14 +36,14 @@ $languages-repository-version: "1.78.1";
     width: 16px;
 
     @each $language in $languages {
-      &.wg-flag-#{map-get($language, code)} {
-        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map-get($language, country_flag_code)}.svg");
+      &.wg-flag-#{map.get($language, code)} {
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map.get($language, country_flag_code)}.svg");
       }
     }
 
     @each $language in $languages {
-      &.wg-flag-country-#{map-get($language, country_flag_code)} {
-        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map-get($language, country_flag_code)}.svg");
+      &.wg-flag-country-#{map.get($language, country_flag_code)} {
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map.get($language, country_flag_code)}.svg");
       }
     }
   }
