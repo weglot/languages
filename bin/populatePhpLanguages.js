@@ -7,7 +7,7 @@ const languagesOutputPath = path.resolve(__dirname, "../dist/Languages.php");
 const languagesJson = JSON.parse(fs.readFileSync(languagesInputPath, "utf8"));
 
 fs.openSync(languagesOutputPath, 'w', 0o777);
-fs.appendFileSync(
+fs.writeFileSync(
     languagesOutputPath,
     "<?php\n" +
     "\n" +
@@ -57,7 +57,7 @@ const countriesOutputPath = path.resolve(__dirname, "../dist/Countries.php");
 const CountriesJson = JSON.parse(fs.readFileSync(countriesInputPath, "utf8"));
 
 fs.openSync(countriesOutputPath, 'w', 0o777);
-fs.appendFileSync(
+fs.writeFileSync(
     countriesOutputPath,
     "<?php\n" +
     "\n" +
