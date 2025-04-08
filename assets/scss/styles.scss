@@ -15,13 +15,13 @@ $languages-repository-version: "1.78.1";
 
   @each $language in $languages {
     &.wg-flag-#{map-get($language, code)} {
-      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map-get($language, code)}.svg");
+      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map-get($language, country_flag_code)}.svg");
     }
   }
 
   @each $language in $languages {
-    &.wg-flag-country-#{map-get($language, country_code)} {
-      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map-get($language, code)}.svg");
+    &.wg-flag-country-#{map-get($language, country_flag_code)} {
+      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map-get($language, country_flag_code)}.svg");
     }
   }
 
@@ -37,13 +37,13 @@ $languages-repository-version: "1.78.1";
 
     @each $language in $languages {
       &.wg-flag-#{map-get($language, code)} {
-        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map-get($language, code)}.svg");
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map-get($language, country_flag_code)}.svg");
       }
     }
 
     @each $language in $languages {
-      &.wg-flag-country-#{map-get($language, country_code)} {
-        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map-get($language, code)}.svg");
+      &.wg-flag-country-#{map-get($language, country_flag_code)} {
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map-get($language, country_flag_code)}.svg");
       }
     }
   }
