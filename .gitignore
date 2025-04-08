@@ -1,7 +1,10 @@
-node_modules/
 .idea
 .DS_Store
-assets/scss/data
-dist/
-build/
+
+node_modules/
 vendor/
+
+assets/scss/data/*
+!assets/scss/data/.gitkeep
+build/
+dist/
