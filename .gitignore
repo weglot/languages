@@ -7,4 +7,5 @@ vendor/
 assets/scss/data/*
 !assets/scss/data/.gitkeep
 build/
-dist/
+dist/*
+!dist/.gitkeep
