@@ -1,5 +1,6 @@
 @use "sass:map";
 @use "data/languages" as *;
+@use "data/countries" as *;
 
 $languages-repository-version: "1.78.1";
 
@@ -19,9 +20,9 @@ $languages-repository-version: "1.78.1";
     }
   }
 
-  @each $language in $languages {
-    &.wg-flag-country-#{map.get($language, country_flag_code)} {
-      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map.get($language, country_flag_code)}.svg");
+  @each $country in $countries {
+    &.wg-flag-country-#{map.get($country, code)} {
+      background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/4x3/#{map.get($country, code)}.svg");
     }
   }
 
@@ -41,9 +42,9 @@ $languages-repository-version: "1.78.1";
       }
     }
 
-    @each $language in $languages {
-      &.wg-flag-country-#{map.get($language, country_flag_code)} {
-        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map.get($language, country_flag_code)}.svg");
+    @each $country in $countries {
+      &.wg-flag-country-#{map.get($country, country_flag_code)} {
+        background-image: url("https://cdn.jsdelivr.net/gh/weglot/languages@#{$languages-repository-version}/images/1x1/#{map.get($country, code)}.svg");
       }
     }
   }
