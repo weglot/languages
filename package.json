@@ -22,7 +22,7 @@
   "homepage": "https://github.com/weglot/languages#readme",
   "devDependencies": {
     "flag-icon-css": "^4.1.7",
-    "jest": "^30.0.0",
+    "jest": "^30.0.5",
     "sass": "^1.89.2"
   }
 }
