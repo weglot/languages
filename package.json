@@ -10,8 +10,8 @@
   "scripts": {
     "build": "npm run populate-languages && npm run sass-compiler && npm run build-svg",
     "sass-compiler": "./node_modules/.bin/sass --style=compressed --source-map ./assets/scss/styles.scss ./dist/styles.css",
-    "flags-downloads": "cp -a ./node_modules/flag-icon-css/flags/. ./images/flag-icon-css/",
     "populate-languages": "node bin/populateScssLanguages.js && node bin/populatePhpLanguages.js",
+    "copy-svg": "node bin/copySvg.js",
     "build-svg": "node bin/buildSvg.js",
     "test": "jest"
   },
@@ -21,8 +21,9 @@
   },
   "homepage": "https://github.com/weglot/languages#readme",
   "devDependencies": {
-    "flag-icon-css": "^4.1.7",
+    "flag-icons": "^7.5.0",
     "jest": "^30.0.5",
-    "sass": "^1.90.0"
+    "sass": "^1.90.0",
+    "svgo": "^4.0.0"
   }
 }
