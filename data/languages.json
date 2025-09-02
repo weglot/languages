@@ -85,7 +85,7 @@
       "english_name": "Catalan",
       "local_name": "Català",
       "rtl": "false",
-      "country_flag_code": "es-ca",
+      "country_flag_code": "es-ct",
       "variant": "false"
     },
     {
@@ -173,7 +173,7 @@
       "english_name": "Basque",
       "local_name": "Euskara",
       "rtl": "false",
-      "country_flag_code": "eus",
+      "country_flag_code": "es-pv",
       "variant": "false"
     },
     {

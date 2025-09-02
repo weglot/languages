@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { optimize } = require("svgo");
 
 const imagesDir = `${__dirname}/../images`;
 const buildDir = `${__dirname}/../build`;
@@ -33,7 +34,7 @@ for (const flag of flags) {
   if (!fs.existsSync(outputPath)) {
     fs.mkdirSync(outputPath);
   }
-  
+
   const path = `${imagesDir}/${flag.inputSize}`;
   const flagsData = fs.readdirSync(path).map((file) => ({
     file,
@@ -47,6 +48,8 @@ for (const flag of flags) {
       const regex = /(<svg(?:[^>]+)>)(?<svg>[\s\S]+)(<\/svg>)/i;
       svg = svg.replace(regex, `$1${flag.overlay}$3`);
     }
+
+    svg = optimize(svg).data;
 
     fs.writeFileSync(`${outputPath}/${file}`, svg);
   });
