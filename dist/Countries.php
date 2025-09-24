@@ -850,6 +850,10 @@ class Countries
                 'code' => 'sy',
                 'name' => 'Syria',
             ],
+            'tw' => [
+                'code' => 'tw',
+                'name' => 'Taiwan',
+            ],
             'tj' => [
                 'code' => 'tj',
                 'name' => 'Tajikistan',

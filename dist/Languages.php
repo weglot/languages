@@ -103,7 +103,7 @@ class Languages
                 'english' => "Catalan",
                 'local' => "Català",
                 'rtl' => false,
-                'country' => 'es-ca',
+                'country' => 'es-ct',
                 'variant' => false,
             ],
             'co' => [
@@ -191,7 +191,7 @@ class Languages
                 'english' => "Basque",
                 'local' => "Euskara",
                 'rtl' => false,
-                'country' => 'eus',
+                'country' => 'es-pv',
                 'variant' => false,
             ],
             'fa' => [
