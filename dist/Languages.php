@@ -557,7 +557,7 @@ class Languages
             'my' => [
                 'code' => 'my',
                 'english' => "Burmese",
-                'local' => "မျန္မာစာ",
+                'local' => "မြန်မာစာ",
                 'rtl' => false,
                 'country' => 'mm',
                 'variant' => false,
