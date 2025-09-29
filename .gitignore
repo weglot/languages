@@ -8,4 +8,5 @@ assets/scss/data/*
 !assets/scss/data/.gitkeep
 build/
 dist/*
-!dist/.gitkeep
+!dist/Countries.php
+!dist/Languages.php
