@@ -23,7 +23,7 @@
   "devDependencies": {
     "flag-icons": "^7.5.0",
     "jest": "^30.2.0",
-    "sass": "^1.93.3",
+    "sass": "^1.94.2",
     "svgo": "^4.0.0"
   }
 }
