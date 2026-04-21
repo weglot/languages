@@ -178,6 +178,14 @@ class Languages
                 'country' => 'es',
                 'variant' => false,
             ],
+            'es-419' => [
+                'code' => 'es-419',
+                'english' => "Latin American Spanish",
+                'local' => "Español Latinoamericano",
+                'rtl' => false,
+                'country' => 'mx',
+                'variant' => false,
+            ],
             'et' => [
                 'code' => 'et',
                 'english' => "Estonian",
