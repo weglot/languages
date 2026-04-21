@@ -161,6 +161,14 @@
       "variant": "false"
     },
     {
+      "code": "es-419",
+      "english_name": "Latin American Spanish",
+      "local_name": "Español Latinoamericano",
+      "rtl": "false",
+      "country_flag_code": "mx",
+      "variant": "false"
+    },
+    {
       "code": "et",
       "english_name": "Estonian",
       "local_name": "Eesti",
