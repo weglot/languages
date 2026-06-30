@@ -15,9 +15,11 @@ jobs:
         runs-on: ubuntu-latest
         timeout-minutes: 10
         steps:
-            - uses: actions/checkout@v6
+            - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+              with:
+                  persist-credentials: false
 
-            - uses: actions/setup-node@v6
+            - uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
               with:
                   node-version-file: ".nvmrc"
                   registry-url: https://npm.pkg.github.com/
@@ -44,7 +46,7 @@ jobs:
                   --content-type 'image/svg+xml; charset=utf-8'
 
             - name: Cloudfront invalidations
-              uses: awact/cloudfront-action@master
+              uses: awact/cloudfront-action@092e61fd4cc49f3c27490d7774572ba02c836326 # master
               env:
                   SOURCE_PATH: "/flags/*"
                   DISTRIBUTION_ID: E246SQQF56C0KG
