@@ -49,4 +49,17 @@ jobs:
               uses: awact/cloudfront-action@092e61fd4cc49f3c27490d7774572ba02c836326 # master
               env:
                   SOURCE_PATH: "/flags/*"
-                  DISTRIBUTION_ID: E246SQQF56C0KG
+                  DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
+
+            - name: Upload built flags on production US
+              run: |
+                  aws s3 sync ./build s3://cdn.weglot.us/flags \
+                  --region us-east-2 \
+                  --cache-control 'max-age=2592000' --delete --acl public-read \
+                  --content-type 'image/svg+xml; charset=utf-8'
+
+            - name: Cloudfront invalidations US
+              uses: awact/cloudfront-action@092e61fd4cc49f3c27490d7774572ba02c836326 # master
+              env:
+                  SOURCE_PATH: "/flags/*"
+                  DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID_US }}
