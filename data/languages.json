@@ -66,7 +66,7 @@
     },
     {
       "code": "pt-br",
-      "english_name": "Brazilian Portuguese",
+      "english_name": "Portuguese (Brazil)",
       "local_name": "Português Brasileiro",
       "rtl": "false",
       "country_flag_code": "br",
@@ -610,7 +610,7 @@
     },
     {
       "code": "pt",
-      "english_name": "Portuguese",
+      "english_name": "Portuguese (Portugal)",
       "local_name": "Português",
       "rtl": "false",
       "country_flag_code": "pt",
@@ -802,7 +802,7 @@
     },
     {
       "code": "zh-tw",
-      "english_name": "Traditional Chinese",
+      "english_name": "Chinese (Traditional)",
       "local_name": "中文 (繁體)",
       "rtl": "false",
       "country_flag_code": "tw",
@@ -874,7 +874,7 @@
     },
     {
       "code": "zh",
-      "english_name": "Simplified Chinese",
+      "english_name": "Chinese (Simplified)",
       "local_name": "中文 (简体)",
       "rtl": "false",
       "country_flag_code": "cn",

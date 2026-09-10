@@ -84,7 +84,7 @@ class Languages
             ],
             'pt-br' => [
                 'code' => 'pt-br',
-                'english' => "Brazilian Portuguese",
+                'english' => "Portuguese (Brazil)",
                 'local' => "Português Brasileiro",
                 'rtl' => false,
                 'country' => 'br',
@@ -628,7 +628,7 @@ class Languages
             ],
             'pt' => [
                 'code' => 'pt',
-                'english' => "Portuguese",
+                'english' => "Portuguese (Portugal)",
                 'local' => "Português",
                 'rtl' => false,
                 'country' => 'pt',
@@ -820,7 +820,7 @@ class Languages
             ],
             'zh-tw' => [
                 'code' => 'zh-tw',
-                'english' => "Traditional Chinese",
+                'english' => "Chinese (Traditional)",
                 'local' => "中文 (繁體)",
                 'rtl' => false,
                 'country' => 'tw',
@@ -892,7 +892,7 @@ class Languages
             ],
             'zh' => [
                 'code' => 'zh',
-                'english' => "Simplified Chinese",
+                'english' => "Chinese (Simplified)",
                 'local' => "中文 (简体)",
                 'rtl' => false,
                 'country' => 'cn',
