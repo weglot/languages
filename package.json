@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/weglot/languages#readme",
   "devDependencies": {
-    "flag-icons": "^7.5.0",
-    "jest": "^30.5.1",
-    "sass": "^1.104.0",
+    "flag-icons": "^7.6.0",
+    "jest": "^30.5.2",
+    "sass": "^1.105.2",
     "svgo": "^4.1.0"
   }
 }
